@@ -4,9 +4,13 @@
 
 - 使用计算机阅读效果更佳。
 
-![目录](assets\Minecraft 1.8-1.16.5 常见QA\catalogue.png)
+
 
 > 使用右侧侧边栏目录快速查找您的问题
+>
+> ![目录](/assets/Minecraft_1.8-1.16.5_常见QA/catalogue.png)
+
+
 
 ## Java 配置错误
 
@@ -30,7 +34,7 @@
 
 请按照自己的选择来关掉冲突的 Mod，若您不知道哪些 Mod 冲突，请前往 [__BakaXL 官方群聊__](https://jq.qq.com/?_wv=1027&k=TwvkLgkB)寻求帮助，或按照教程自查。
 
-![BakaXL Mod管理界面](assets/Minecraft 1.8-1.16.5 常见QA/gameModSetting.png "")
+![BakaXL Mod管理界面](/assets/Minecraft_1.8-1.16.5_常见QA/gameModSetting.png)
 
 ## 显卡驱动﻿过旧 / 未安装
 
@@ -46,7 +50,7 @@
 
 1. 在弹出的窗口中点击`显示` ，在`制造商`一列将会显示您的显卡制造商
 
-![dx诊断工具](assets\Minecraft 1.8-1.16.5 常见QA\directXtools.png)
+![dx诊断工具](/assets/Minecraft_1.8-1.16.5_常见QA/directXtools.png)
 
 ### 笔记本
 
@@ -60,13 +64,13 @@
 
 前往 [__AMD 驱动程序与支持__](https://www.amd.com/zh-hans/support) 页面根据您的显卡 / 处理器型号下载最新的驱动程序 。
 
-![amd驱动下载页面](assets\Minecraft 1.8-1.16.5 常见QA\amdDriver.png)
+![amd驱动下载页面](/assets/Minecraft_1.8-1.16.5_常见QA/amdDriver.png)
 
 ### NVIDIA 显卡
 
 请前往 [__NVIDIA 驱动程序__](https://www.nvidia.cn/geforce/drivers/) 页面根据显卡型号和需要下载最新的显卡驱动。
 
-![Nvidia驱动下载页面](assets\Minecraft 1.8-1.16.5 常见QA\nvidiaDriver.png)
+![Nvidia驱动下载页面](/assets/Minecraft_1.8-1.16.5_常见QA/nvidiaDriver.png)
 
 ## 分配内存过大 (过小)
 
@@ -82,7 +86,7 @@
 
 > 最低内存设置为 1GB 
 
-![系统内存](assets\Minecraft 1.8-1.16.5 常见QA\systemMemory.png)
+![系统内存](/assets/Minecraft_1.8-1.16.5_常见QA/systemMemory.png)
 
 > Mod 越多（或材质包分辨率更大，能见度更远）时你需要分配更多的内存，但是不要超出你的可用内存。
 

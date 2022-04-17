@@ -76,7 +76,7 @@
 
 若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
 
-[Minecraft 1﻿.8 - 1.16.5 崩溃如何处理？](http://frp.freefrp.net:15482/#/docs/Minecraft_1.8-1.16.5_CRQA.md)
+[Minecraft 1﻿.8 - 1.16.5 崩溃如何处理？](docs/Minecraft_1.8-1.16.5_CRQA.md)
 
 ### 在 BakaXL 大厅联机中显示 “连接超时”
 
