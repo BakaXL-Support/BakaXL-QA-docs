@@ -100,11 +100,11 @@
 
 1. 在旁边一栏找到`启用或关闭 Windows Defender 防火墙`
 
-![](https://tcs.teambition.net/storage/312g7ec0fa86593808981fc3a7590466197e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmc3ZWMwZmE4NjU5MzgwODk4MWZjM2E3NTkwNDY2MTk3ZSJ9.0L5zAn4m5gCBqDRvTeqzC_ei3g7euWqMfrFYa087Y48&download=~MA)_AHK5~U0S77A%7BO_9JWW.png "")
+![](https://tcs.teambition.net/storage/312g7ec0fa86593808981fc3a7590466197e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmc3ZWMwZmE4NjU5MzgwODk4MWZjM2E3NTkwNDY2MTk3ZSJ9.0L5zAn4m5gCBqDRvTeqzC_ei3g7euWqMfrFYa087Y48&download=~MA)
 
 1. 关闭`Windows Defender 防火墙`
 
-![](https://tcs.teambition.net/storage/312g5dfae9698116643e29ac3489dd63b917?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmc1ZGZhZTk2OTgxMTY2NDNlMjlhYzM0ODlkZDYzYjkxNyJ9.JM2fNCJVOvPSdzi6LjM2r8jkeP4uKijzVeWa0SON0d4&download=image.png "")
+![](https://tcs.teambition.net/storage/312g5dfae9698116643e29ac3489dd63b917?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmc1ZGZhZTk2OTgxMTY2NDNlMjlhYzM0ODlkZDYzYjkxNyJ9.JM2fNCJVOvPSdzi6LjM2r8jkeP4uKijzVeWa0SON0d4&download=image.png)
 
 1. 点击确定
 
@@ -124,6 +124,13 @@
 
 
 
+### 微软登录时无法访问微软登录网页
+这一般是因为地区问题，微软服务器位于国外，国内访问会缓慢
+#### 解决方法
+1. 使用加速器，例如[VK加速器](https://verykuai.com/)，加速我的世界hypixel即可
+2. 更改DNS为4.2.2.1，[更改DNS教程（win10）](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html) [更改DNS教程（win7）](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
+
+**注意：方法2并不会百分百解决问题**
 ### 若此文档未能解决您的问题，请参考这里
 
 ***
