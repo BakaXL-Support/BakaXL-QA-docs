@@ -15,3 +15,5 @@ jobs:
           TARGET_BRANCH: main
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
+          COMMIT_MESSAGE: Auto Deploy Success
+          CNAME: test.bakaxl.ml
