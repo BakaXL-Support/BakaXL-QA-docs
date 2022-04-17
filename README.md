@@ -24,11 +24,13 @@
 
 ---
 
-前往`本体设置`-`Java 虚拟机与内存`，下翻到`内存设置` ，可以自行设置， 但 BakaXL 推荐您打开`自动设置内存`
+前往`本体设置`-`Java 虚拟机与内存`，下翻到`内存设置`，可以自行设置， 但 BakaXL 推荐您打开`自动设置内存`
 
 ![setGameMemory](assets/imgs/setGameMemory.png)
 
 ### 在 Bakaxl 大厅里面无法创建大厅
+
+---
 
 ![](https://tcs.teambition.net/storage/312g12682de2239b44db33bf028a37b50ab8?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwODEwNywiaWF0IjoxNjUwMjA0NTA3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmcxMjY4MmRlMjIzOWI0NGRiMzNiZjAyOGEzN2I1MGFiOCJ9.EJ47H1GMPM7ecM10it98luD4fOSoKPZnUw3Pjqttb0g)
 
@@ -140,3 +142,9 @@
 请寻求 BakaXL 官方群聊中的开发者 / 群员的帮助，或自查。
 
 [如何正确地请求别人的帮助？](docs/询问问题的方法.md)
+
+求你们了，不要要再问一些让人血压高的问题了，求求你们了！
+![image](https://user-images.githubusercontent.com/94278322/163719886-5dc96a23-2919-4f9f-9d9a-2f120228c5e2.png)![image](https://user-images.githubusercontent.com/94278322/163719892-dd14dda9-ec89-4987-b060-a20a082700c8.png)![image](https://user-images.githubusercontent.com/94278322/163719897-2fb12031-bb59-4f69-9de9-89bc2e7b2ceb.png)
+
+
+
