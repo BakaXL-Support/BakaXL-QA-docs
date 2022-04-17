@@ -130,5 +130,5 @@
 
 请寻求 BakaXL 官方群聊中的开发者 / 群员的帮助，或自查。
 
-[如何正确地请求别人的帮助？](https://thoughts.teambition.com/share/6122f1abd9f39a0046f4a0ff#title=%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E5%9C%B0%E8%AF%B7%E6%B1%82%E5%88%AB%E4%BA%BA%E7%9A%84%E5%B8%AE%E5%8A%A9%EF%BC%9F)
+[如何正确地请求别人的帮助？](http://frp.freefrp.net:15482/#/docs/%E9%97%AE%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
