@@ -1,4 +1,4 @@
-ame: Push2update-Website
+name: Push2update-Website
 on: [push]
 jobs:
   build-and-deploy:
