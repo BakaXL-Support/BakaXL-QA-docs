@@ -8,7 +8,7 @@
 
 ![](https://tcs.teambition.net/storage/312g6d89eeff53cedc9b5d18728dd2f22740?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmc2ZDg5ZWVmZjUzY2VkYzliNWQxODcyOGRkMmYyMjc0MCJ9.be96D4nIUVjIiI1rUZa5H-x2sNrzRxTbrc5OWKrAWTE&download=image.png "")
 
-> 使用右侧的侧边栏目录来快速寻找您的问题
+> 使用左侧的侧边栏目录来快速寻找您的问题
 
 ### 切换 Minecraft 核心
 
