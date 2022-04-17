@@ -5,8 +5,8 @@
 崩坏 · 丧病 · 精神污染
 
 > 使用左侧的侧边栏目录来快速寻找您的问题
-
-![目录截图](assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
+> 
+> ![目录截图](assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
 
 ### 切换 Minecraft 核心
 
