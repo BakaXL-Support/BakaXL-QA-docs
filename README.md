@@ -127,8 +127,9 @@
 ### 微软登录时无法访问微软登录网页
 这一般是因为地区问题，微软服务器位于国外，国内访问会缓慢
 #### 解决方法
-1. 使用加速器，例如[VK加速器](https://verykuai.com/)，加速我的世界hypixel即可
+1. 使用加速器，例如[VK加速器](https://verykuai.com/)，在VK加速器中，加速我的世界Hypixel就可
 2. 更改DNS为4.2.2.1，[更改DNS教程（win10）](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html) [更改DNS教程（win7）](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
+3. 使用VPN
 
 **注意：方法2并不会百分百解决问题**
 ### 若此文档未能解决您的问题，请参考这里
