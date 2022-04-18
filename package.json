@@ -2,7 +2,8 @@
     "name": "bakaxl-docs-deploy",
     "scripts": {
         "dev": "vuepress dev docs",
-        "build": "vuepress build docs"
+        "build": "vuepress build docs",
+        "deploy-gh": "GH=1 yarn build && bash scripts/deploy-gh.sh"
     },
     "devDependencies": {
         "@vuepress/theme-blog": "^2.3.3",

@@ -1,7 +1,8 @@
 ---
 home: true
 heroImage: ./favicon.png
-heroText: BakaXL用户帮助文档
+
+[//]: # (heroText: BakaXL用户帮助文档)
 tagline: 崩坏 · 丧病 · 精神污染
 actionText: 立刻查看 →
 actionLink: ./maindocs.md

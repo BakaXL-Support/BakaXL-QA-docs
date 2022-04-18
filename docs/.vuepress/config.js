@@ -7,20 +7,22 @@ module.exports = {
   ],
   themeConfig: {
     logo: './favicon.png',
-    lang: 'zh-CN', 
-    navbar: true, 
-    nav:[
-      {text: '主页', link:'/'}, 
-      {text: '帮助文档', link: '/maindocs/'}, 
-      {text: '相关文档', 
-        item: [
-          {text: '1.8-1.16.5版本常见问题', link: '/subdocs/Minecraft_1.8-1.16.5_CRQA/'}, 
-          {text: '如何提出一个合适的问题', link: '/subdocs/How_To_Asking_Question/'}
+    lang: 'zh-CN',
+    sidebar: 'auto', // 自动生成侧边栏
+    // sidebar: 'structuring',
+    nav: [
+      { text: '主页', link: '/' },
+      { text: '帮助文档', link: '/maindocs/' },
+      {
+        text: '相关文档',
+        items: [
+          { text: '1.8-1.16.5版本常见问题', link: '/subdocs/Minecraft_1.8-1.16.5_CRQA/'},
+          { text: '如何提出一个合适的问题', link: '/subdocs/How_To_Asking_Question/' }
         ]
-      }, 
-      {text: '文档编写规则', link: '/subdocs/BakaXL_HelpDocs_WriteRules/'}
-    ],
-    sidebar: 'structuring', 
+      },
+      { text: '文档编写规则', link: '/subdocs/BakaXL_HelpDocs_WriteRules/' },
+    ], // 顶部栏配置
+    displayAllHeaders: true, // 默认值：false
     sidebarDepth: 2,
     lastUpdated: '最后更新于',
     smoothScroll: true,
@@ -30,6 +32,8 @@ module.exports = {
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: true,
-    editLinkText: '帮助我们改善此页面！'
+    editLinkText: '帮助我们改善此页面！',
+    nextLinks: true,
+    prevLinks: true,
   }
 }
