@@ -6,14 +6,14 @@
 
 这些是比较常见的问题，常见到他可能不会写在BakaXL帮助文档中
 
-![](assets\How_To_Ask_Question\attention-1.jpg)
+![](./assets/How_To_Ask_Question/attention-1.jpg)
 
 需要注意的是，BakaXL及其用户一般只会帮助解决与BakaXL有关的错误（如无法启动游戏），因其他问题导致的错误可能会无从定位。 在这种情况下，我们推荐您通过下面这些搜索引擎尝试搜寻到答案
 
-![](assets\How_To_Ask_Question\attention-2.jpg)
+![](./assets/How_To_Ask_Question/attention-2.jpg)
 
 之后，当您请求别人帮助时，请务必清楚自己的问题并且让他人明确了解您的问题是什么，下面这些图也并非空穴来风
 
-![](assets\How_To_Ask_Question\attention-3.jpg)
+![](./assets/How_To_Ask_Question/attention-3.jpg)
 
-![](assets\How_To_Ask_Question\attention-4.jpg)
+![](./assets/How_To_Ask_Question/attention-4.jpg)
