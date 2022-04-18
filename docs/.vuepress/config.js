@@ -10,16 +10,16 @@ module.exports = {
     lang: 'zh-CN', 
     navbar: true, 
     nav:[
-      {text: '主页', link:'/'}, 
-      {text: '帮助文档', link: '/maindocs/'}, 
-      {text: '相关文档', 
-      ariaLabel: '文档', 
+      {text: '\u4e3b\u9875', link:'/'}, 
+      {text: '\u5e2e\u52a9\u6587\u6863', link: '/maindocs/'}, 
+      {text: '\u76f8\u5173\u6587\u6863', 
+      ariaLabel: '\u6587\u6863', 
       item: [
-        {text: '1.8-1.16.5版本常见问题', link: '/subdocs/Minecraft_1.8-1.16.5_CRQA/'}, 
-        {text: '如何提出一个合适的问题', link: '/subdocs/How_To_Asking_Question/'}
+        {text: '1.8-1.16.5 \u7248\u672c\u5e38\u89c1\u95ee\u9898', link: '/subdocs/Minecraft_1.8-1.16.5_CRQA/'}, 
+        {text: '\u5982\u4f55\u63d0\u51fa\u4e00\u4e2a\u5408\u9002\u7684\u95ee\u9898', link: '/subdocs/How_To_Asking_Question/'}
       ]
       }, 
-      {text: '文档编写规则', link: '/subdocs/BakaXL_HelpDocs_WriteRules/'}
+      {text: '\u6587\u6863\u7f16\u5199\u89c4\u5219', link: '/subdocs/BakaXL_HelpDocs_WriteRules/'}
     ], 
     sidebar: 'auto',
     lastUpdated: '最后更新于',
