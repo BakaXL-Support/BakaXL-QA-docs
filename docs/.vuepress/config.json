@@ -1,7 +1,0 @@
-module.exports = {
-  title: 'BakaXL 启动器帮助文档',
-  description: '提供启动器的帮助文档',
-  themeConfig:{
-    logo: './assets/imgs/favicon.png'
-  }
-}

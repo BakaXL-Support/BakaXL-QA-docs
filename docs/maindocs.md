@@ -109,7 +109,7 @@
 #### 解决方法
 
 1. 使用加速器，例如[VK 加速器](https://verykuai.com/)，在 VK 加速器中，加速我的世界 Hypixel 就可
-2. 更改 DNS 为`223.5.5.5` 和 `4.2.2.1`       [更改 DNS 教程（win10）](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html) [更改 DNS 教程（win7）](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
+2. 更改 DNS 为`223.5.5.5` 和 `4.2.2.1`       [更改 DNS 教程(Win10)](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html)  [更改 DNS 教程(Win7)](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
 3. 使用 VPN
 
 **注意：方法 2 并不会百分百解决您的网络问题**
@@ -118,7 +118,7 @@
 
 请寻求 BakaXL 官方群聊中的开发者 / 群员的帮助，或自查。
 
-[《如何正确地请求别人的帮助？》](./询问问题的方法.md)
+[《如何正确地请求别人的帮助？》](./subdocs/How_To_Asking_Question.md)
 
 
 
