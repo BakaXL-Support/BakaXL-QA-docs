@@ -1,10 +1,42 @@
-![](https://tcs.teambition.net/storage/312g03bcdf2696ae0f4adcb964c107216d35?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmcwM2JjZGYyNjk2YWUwZjRhZGNiOTY0YzEwNzIxNmQzNSJ9.E8rYSqsT556dSmhaRr9yf-0sHvw7Bf54IsnoyvGD6Wk&download=logo.372a558f.png)
 
-# 新一代脑子有洞的启动器帮助文档
 
-崩坏 · 丧病 · 精神污染
+---
 
-> 使用左侧的侧边栏目录来快速寻找您的问题
+home: true
+
+heroImage: /assets/img/favicon.png
+
+heroText: BakaXL用户帮助文档
+
+tagline: 崩坏 · 丧病 · 精神污染
+
+actionText: 立刻查看 →
+
+actionLink: /README.md
+
+features: 
+
+- title: 专为用户优化
+
+​	details: 作为用户的我们，我们明白作为一位用户需要什么
+
+- title: 开放且自由
+
+​	details: 发现了新彩蛋？发现了新bug？一起来讨论一下
+
+- title: 互相协助
+
+​	details: 遇到了从未见过的问题？你可以发起一次讨论或一项提议来得到解答
+
+footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
+
+---
+
+<!-- 切忌！上方内容会经过机器检查，对上方内容的任何修改都需要在dev分支测试通过后才能推送到main分支，通常情况下也不需要去修改这些内容 -->
+
+
+
+> tips:使用左侧的侧边栏目录来快速寻找您的问题
 > 
 > ![目录截图](assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
 
@@ -148,5 +180,4 @@
 
 
 ### Bakaxl启动器 还有更多有趣的功能，还请各位去耐心探索！
-
 
