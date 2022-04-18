@@ -22,7 +22,7 @@ MIT Licensed | Copyright © 2021-2022 [BakaXL 用户中心](https://github.com/B
 
 > tips:使用左侧的侧边栏目录来快速寻找您的问题
 >
-> ![目录截图](./assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
+> ![目录截图](./assets/imgs/directory.png)
 
 ### 切换 Minecraft 核心
 
