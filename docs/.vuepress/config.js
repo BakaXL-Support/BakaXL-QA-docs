@@ -1,4 +1,5 @@
 module.exports = {
+  theme: 'vuepress/theme-default',
   title: 'BakaXL 启动器帮助文档',
   description: '提供启动器的帮助文档',
   head: [
