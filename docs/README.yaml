@@ -1,35 +1,18 @@
-
-
 ---
-
 home: true
-
-heroImage: /assets/img/favicon.png
-
+heroImage: ./assets/img/favicon.png
 heroText: BakaXL用户帮助文档
-
 tagline: 崩坏 · 丧病 · 精神污染
-
 actionText: 立刻查看 →
-
 actionLink: /README.md
-
 features: 
-
 - title: 专为用户优化
-
 ​	details: 作为用户的我们，我们明白作为一位用户需要什么
-
 - title: 开放且自由
-
 ​	details: 发现了新彩蛋？发现了新bug？一起来讨论一下
-
 - title: 互相协助
-
 ​	details: 遇到了从未见过的问题？你可以发起一次讨论或一项提议来得到解答
-
 footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
-
 ---
 
 <!-- 切忌！上方内容会经过机器检查，对上方内容的任何修改都需要在dev分支测试通过后才能推送到main分支，通常情况下也不需要去修改这些内容 -->
@@ -38,7 +21,7 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 > tips:使用左侧的侧边栏目录来快速寻找您的问题
 > 
-> ![目录截图](assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
+> ![目录截图](./assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
 
 ### 切换 Minecraft 核心
 
@@ -46,11 +29,11 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 点击`启动游戏`按钮旁边的`切换核心图标`，或向右拖拽「启动游戏」按钮
 
-![切换启动核心](/assets/imgs/startUp.gif)
+![切换启动核心](./assets/imgs/startUp.gif)
 
 ### 设置游戏核心
 
-![setGameCore](assets/imgs/setGameCore.gif)
+![setGameCore](./assets/imgs/setGameCore.gif)
 
 ### 启动游戏时卡死了
 
@@ -58,7 +41,7 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 前往`本体设置`-`Java 虚拟机与内存`，下翻到`内存设置`，可以自行设置， 但 BakaXL 推荐您打开`自动设置内存`
 
-![setGameMemory](assets/imgs/setGameMemory.png)
+![setGameMemory](./assets/imgs/setGameMemory.png)
 
 ### 在 Bakaxl 大厅里面无法创建大厅
 
@@ -81,7 +64,6 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 ---
 
 > 您可能需要管理员权限，或联系您的系统管理员
-
 > 如果没能解决您的问题，请联系开发者 TT702
 
 1. 删除`C:\Windows\System32\drivers\etc\hosts`
@@ -98,11 +80,11 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 1. 前往`本体设置`并选择`账户与档案`
 1. 选择您的离线档案，并`点击为我的 Minecaft 角色设置离线皮肤`
-1. ![enableSkinShare-1](assets/imgs/enableSkinShare-1.png)
+1. ![enableSkinShare-1](./assets/imgs/enableSkinShare-1.png)
 1. 前往`领域 / 联机大厅`并选择`用户设置`
 1. 确保`BakaXL Network SkinShare 皮肤妙享`为`开`
 
-![setSkninShare-2](assets/imgs/enableSkinShare-2.png)
+![setSkninShare-2](./assets/imgs/enableSkinShare-2.png)
 
 ### 在 BakaXL 大厅联机中玩家之间无法显示对方的皮肤
 
@@ -116,7 +98,7 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 1. 确保`使用此正版档案时加入皮肤妙享网络`为`开`
 
-> 当 ﻿ 启用`此正版档案时加入皮肤妙享网络` 时，你将无法进入开启了正版验证的服务器。
+> 当启用 `此正版档案时加入皮肤妙享网络` 时，你将无法进入开启了正版验证的服务器。
 
 ### Minecraft 游戏崩溃了
 
@@ -124,7 +106,7 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 
 若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
 
-[Minecraft 1﻿.8 - 1.16.5 崩溃如何处理？](docs/Minecraft_1.8-1.16.5_CRQA.md)
+[Minecraft 1.8 - 1.16.5 崩溃如何处理？](./Minecraft_1.8-1.16.5_CRQA.md)
 
 ### 在 BakaXL 大厅联机中显示 “连接超时”
 
@@ -138,10 +120,10 @@ footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 1. 前往`系统和安全`
 1. 前往`Windows Defender 防火墙`
 1. 在旁边一栏找到`启用或关闭 Windows Defender 防火墙`
-1. ![closeWindowsDefender-1](assets/imgs/closeWindowsDefender-1.png)
+1. ![closeWindowsDefender-1](./assets/imgs/closeWindowsDefender-1.png)
 1. 关闭`Windows Defender 防火墙`
 
-![closeWindowsDefender-2](assets/imgs/closeWindowsDefender-2.png)
+![closeWindowsDefender-2](./assets/imgs/closeWindowsDefender-2.png)
 
 1. 点击确定
 
