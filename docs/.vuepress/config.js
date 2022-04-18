@@ -8,7 +8,7 @@ module.exports = {
     logo: './favicon.png',
     nav:[
       {text: '主页', link:'/'},
-      {text: '帮助文档', link: '/maindocs.html'},
+      {text: '帮助文档', link: '/maindocs.md'},
       {text: '相关文档', 
       ariaLabel: '相关文档',
       item: [
