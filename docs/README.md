@@ -15,6 +15,10 @@ features:
 footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
 ---
 
+::: slot footer
+MIT Licensed | Copyright © 2021-2022 [BakaXL用户中心](https://github.com/BakaXL-Support)
+:::
+
 <!-- 切忌！上方内容会经过机器检查，对上方内容的任何修改都需要在dev分支测试通过后才能推送到main分支，通常情况下也不需要去修改这些内容 -->
 
 
