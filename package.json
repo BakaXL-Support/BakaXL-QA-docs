@@ -1,8 +1,8 @@
 {
     "name": "bakaxl-docs-deploy",
     "scripts": {
-        "dev": "vuepress dev blog",
-        "build": "vuepress build blog"
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
     },
     "devDependencies": {
         "@vuepress/theme-blog": "^2.3.3",
