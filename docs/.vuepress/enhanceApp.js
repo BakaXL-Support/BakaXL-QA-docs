@@ -5,12 +5,12 @@ export default ({
     router, // 当前应用的路由实例
     siteData // 站点元数据
   }) => {
-    // window.Vue = vue // 使页面中可以使用Vue构造函数 （使页面中的vue demo生效）
+    window.Vue = vue // 使页面中可以使用Vue构造函数 （使页面中的vue demo生效）
     Vue.use(Element);
     Vue.mixin({
         mounted() {
-            import('yued-test').then(function (m) {
-                Vue.component('y-button', m.YButton)
+            import('Nav').then(function (m) {
+                Vue.component('Root', m.YButton)
             })
         },
     })
