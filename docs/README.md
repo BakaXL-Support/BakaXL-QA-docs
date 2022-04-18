@@ -4,28 +4,25 @@ heroImage: ./assets/img/favicon.png
 heroText: BakaXL用户帮助文档
 tagline: 崩坏 · 丧病 · 精神污染
 actionText: 立刻查看 →
-actionLink: /README.md
-features: 
-- title: 专为用户优化
-​	details: 作为用户的我们，我们明白作为一位用户需要什么
-- title: 开放且自由
-​	details: 发现了新彩蛋？发现了新bug？一起来讨论一下
-- title: 互相协助
-​	details: 遇到了从未见过的问题？你可以发起一次讨论或一项提议来得到解答
-footer: MIT Licensed | Copyright © 2021-2022 BakaXL用户中心
+actionLink: /README.md#切换Minecraft核心
+features:
+  - title: 专为用户优化
+    details: 作为用户的我们，我们明白作为一位用户需要什么
+  - title: 开放且自由
+    details: 发现了新彩蛋？发现了新bug？一起来讨论一下
+  - title: 互相协助
+    details: 遇到了从未见过的问题？你可以发起一次讨论或一项提议来得到解答
 ---
 
 ::: slot footer
-MIT Licensed | Copyright © 2021-2022 [BakaXL用户中心](https://github.com/BakaXL-Support)
+MIT Licensed | Copyright © 2021-2022 [BakaXL 用户中心](https://github.com/BakaXL-Support)
 :::
 
 <!-- 切忌！上方内容会经过机器检查，对上方内容的任何修改都需要在dev分支测试通过后才能推送到main分支，通常情况下也不需要去修改这些内容 -->
 
-
-
 > tips:使用左侧的侧边栏目录来快速寻找您的问题
-> 
-> ![目录截图](./assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
+>
+> ![目录截图](./assets/imgs/directory.png)
 
 ### 切换 Minecraft 核心
 
@@ -53,7 +50,7 @@ MIT Licensed | Copyright © 2021-2022 [BakaXL用户中心](https://github.com/Ba
 
 ![](https://tcs.teambition.net/storage/312g12682de2239b44db33bf028a37b50ab8?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwODEwNywiaWF0IjoxNjUwMjA0NTA3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmcxMjY4MmRlMjIzOWI0NGRiMzNiZjAyOGEzN2I1MGFiOCJ9.EJ47H1GMPM7ecM10it98luD4fOSoKPZnUw3Pjqttb0g)
 
->在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
+> 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
 
 ![](https://tcs.teambition.net/storage/312gf3041c8b5aab73f0633f091fabdd0475?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwODg0MiwiaWF0IjoxNjUwMjA1MjQyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmdmMzA0MWM4YjVhYWI3M2YwNjMzZjA5MWZhYmRkMDQ3NSJ9.Yid6nnWBVnBvZaEWU5dzV8dhe1Zv0fvEq2u4ICh3fCU)
 
@@ -61,7 +58,7 @@ MIT Licensed | Copyright © 2021-2022 [BakaXL用户中心](https://github.com/Ba
 
 ![](https://tcs.teambition.net/storage/312gf72ad295e184f4475bb4b418f627434a?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwOTAyMywiaWF0IjoxNjUwMjA1NDIzLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmdmNzJhZDI5NWUxODRmNDQ3NWJiNGI0MThmNjI3NDM0YSJ9.gjeKzcgDB3nlExL17dUrsRuO2NSD55N_SHwC1gLJU90)
 
->如果无法创建大厅，请检查您正在使用的的java路径是否有 Javapath 字样。若有，请卸载更换其他Java/jdk
+> 如果无法创建大厅，请检查您正在使用的的 java 路径是否有 Javapath 字样。若有，请卸载更换其他 Java/jdk
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
@@ -164,6 +161,4 @@ MIT Licensed | Copyright © 2021-2022 [BakaXL用户中心](https://github.com/Ba
 求你们了，不要要再问一些让人血压高的问题了，求求你们了！
 ![image](https://user-images.githubusercontent.com/94278322/163719886-5dc96a23-2919-4f9f-9d9a-2f120228c5e2.png)![image](https://user-images.githubusercontent.com/94278322/163719892-dd14dda9-ec89-4987-b060-a20a082700c8.png)![image](https://user-images.githubusercontent.com/94278322/163719897-2fb12031-bb59-4f69-9de9-89bc2e7b2ceb.png)
 
-
-### Bakaxl启动器 还有更多有趣的功能，还请各位去耐心探索！
-
+### Bakaxl 启动器 还有更多有趣的功能，还请各位去耐心探索！
