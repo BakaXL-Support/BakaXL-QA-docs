@@ -6,7 +6,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
   themeConfig: {
-    logo: './favicon.png',
+    logo: '/favicon.png',
     lang: 'zh-CN',
     sidebar: 'auto', // 自动生成侧边栏
     // sidebar: 'structuring',
