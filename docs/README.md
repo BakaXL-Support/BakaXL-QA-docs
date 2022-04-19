@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: ./favicon.png
+heroImage: /favicon.png
 
 [//]: # (heroText: BakaXL用户帮助文档)
 tagline: 崩坏 · 丧病 · 精神污染
 actionText: 立刻查看 →
-actionLink: ./maindocs.md
+actionLink: ./maindocs/maindocs.md
 features:
   - title: 专为用户优化
     details: 作为用户的我们，我们明白一位用户需要什么
