@@ -58,7 +58,9 @@ That's all,祝您生活愉快
 
 # 贡献者
 
-感谢这些人的辛勤付出
+<!-- 图片更新需要时间，没有出来稍安勿躁 -->
+
+感谢这些老伙计的辛勤付出
 
 [![](https://contrib.rocks/image?repo=BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/graphs/contributors)
 
