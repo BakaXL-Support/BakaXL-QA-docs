@@ -1,152 +1,65 @@
-![](https://tcs.teambition.net/storage/312g03bcdf2696ae0f4adcb964c107216d35?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTY1MDc3MDAzOCwiaWF0IjoxNjUwMTY1MjM4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmcwM2JjZGYyNjk2YWUwZjRhZGNiOTY0YzEwNzIxNmQzNSJ9.E8rYSqsT556dSmhaRr9yf-0sHvw7Bf54IsnoyvGD6Wk&download=logo.372a558f.png)
+# BakaXL 用户帮助文档
 
-# 新一代脑子有洞的启动器帮助文档
+![last update in main](https://img.shields.io/github/last-commit/BakaXL-Support/BakaXL-QA-docs)  ![issues](https://img.shields.io/github/issues/BakaXL-Support/BakaXL-QA-docs)  ![pullrequest](https://img.shields.io/github/issues-pr/BakaXL-Support/BakaXL-QA-docs)  ![last vuepress CI](https://img.shields.io/github/workflow/status/BakaXL-Support/BakaXL-QA-docs/sync-website.yml)
 
-崩坏 · 丧病 · 精神污染
+**为新一代Minecraft崩坏启动器用户编写的使用文档**
 
-> 使用左侧的侧边栏目录来快速寻找您的问题
-> 
-> ![目录截图](assets/imgs/%E7%9B%AE%E5%BD%95%E6%88%AA%E5%9B%BE.png)
+欢迎来到BakaXL 用户帮助文档仓库，您来到这里肯定<del>不是吃素的</del>，对吧(xD)
 
-### 切换 Minecraft 核心
+当然，如果您迷路了也可以通过这里的以下索引到达我们不同的位面
 
----
+> [>>前往帮助文档](https://bakaxl.ml) 		 [>>前往提议寻求协助](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues) 		[>>前往讨论区](https://github.com/BakaXL-Support/BakaXL-QA-docs/discussions)
 
-点击`启动游戏`按钮旁边的`切换核心图标`，或向右拖拽「启动游戏」按钮
+您可以在以上位面寻求帮助，当然，在用户交流群中询问也可以，但是我们依旧建议在以上地方(提议与讨论区)发起提问，因为`QA(你问我答)`机制在这里发挥的作用非常大，我们可以实时追踪您的状态与回复，而不会被即时通讯中的信息流淹没而难以找到您提供的有效信息以及我们给您的回答
 
-![切换启动核心](/assets/imgs/startUp.gif)
+> 您也可以添加我们的帮助文档人员交流群: [830707321](https://jq.qq.com/?_wv=1027&k=G8opTejz) 来获取帮助
+>
+> 同时也推荐您添加BakaXL 官方交流群: 480455628 (由于群设置限制，请自行搜索加群)
 
-### 设置游戏核心
 
-![setGameCore](assets/imgs/setGameCore.gif)
 
-### 启动游戏时卡死了
+### 关于协同编写文档
 
----
+如果您遇到了访问速度缓慢等问题我们强烈建议您使用 [Steam++](https://steampp.net/) 或其他科学上网的方式来访问Github以获得最佳体验
 
-前往`本体设置`-`Java 虚拟机与内存`，下翻到`内存设置`，可以自行设置， 但 BakaXL 推荐您打开`自动设置内存`
+#### 关于Github
 
-![setGameMemory](assets/imgs/setGameMemory.png)
+> 如果您有使用Github的经验可以跳过这里
 
-### 在 Bakaxl 大厅里面无法创建大厅
+为了更好的管理文档的版本以及避免可能出现的熊孩子破坏，我们使用了Git来控制文档的版本，这是一种用于控制代码版本的管理系统，
 
----
+在这里我们快速让您熟悉一下Github
 
-![](https://tcs.teambition.net/storage/312g12682de2239b44db33bf028a37b50ab8?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwODEwNywiaWF0IjoxNjUwMjA0NTA3LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmcxMjY4MmRlMjIzOWI0NGRiMzNiZjAyOGEzN2I1MGFiOCJ9.EJ47H1GMPM7ecM10it98luD4fOSoKPZnUw3Pjqttb0g)
+[>>Github简介(BakaXL Wiki)](https://github.com/BakaXL-Support/BakaXL-QA-docs/wiki/%E5%85%B3%E4%BA%8EGithub)
 
->在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
 
-![](https://tcs.teambition.net/storage/312gf3041c8b5aab73f0633f091fabdd0475?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwODg0MiwiaWF0IjoxNjUwMjA1MjQyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmdmMzA0MWM4YjVhYWI3M2YwNjMzZjA5MWZhYmRkMDQ3NSJ9.Yid6nnWBVnBvZaEWU5dzV8dhe1Zv0fvEq2u4ICh3fCU)
 
-![](https://tcs.teambition.net/storage/312g379da7599b474d60de02cc4f36dc7a3e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwOTAwNiwiaWF0IjoxNjUwMjA1NDA2LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmczNzlkYTc1OTliNDc0ZDYwZGUwMmNjNGYzNmRjN2EzZSJ9.IiszEmN7gFiG-LmJDA0lpTQOkZiW6GBm3kKmZaFXEEE)
+#### 如何更新我们的文档
 
-![](https://tcs.teambition.net/storage/312gf72ad295e184f4475bb4b418f627434a?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVmYzRmMTIyODkxNjkwMjZlZjZhOTc1NyIsImV4cCI6MTY1MDIwOTAyMywiaWF0IjoxNjUwMjA1NDIzLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzMxMmdmNzJhZDI5NWUxODRmNDQ3NWJiNGI0MThmNjI3NDM0YSJ9.gjeKzcgDB3nlExL17dUrsRuO2NSD55N_SHwC1gLJU90)
+我们分为两个分支`main`与`dev`分支，在文档上的更新可以通过Pull request至我们仓库的`main`分支来更新内容
 
->如果无法创建大厅，请检查您正在使用的的java路径是否有 Javapath 字样。若有，请卸载更换其他Java/jdk
+而触碰到前端代码的所有内容则是先必须推送至`dev`分支经测试后才能合并至`main`分支
 
-### 在 Minecraft 「多人游戏」里无法显示大厅房间
+您可以参考这篇文章来详细了解我们仓库的基本编写规则
 
----
+[>>如何在BakaXL QA Docs仓库提交您的更改](https://github.com/BakaXL-Support/BakaXL-QA-docs/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8BakaXL-QA-Docs%E4%BB%93%E5%BA%93%E6%8F%90%E4%BA%A4%E6%82%A8%E7%9A%84%E6%9B%B4%E6%94%B9)
 
-> 您可能需要管理员权限，或联系您的系统管理员
+您也可以参考我们的编写规范进行修改
 
-> 如果没能解决您的问题，请联系开发者 TT702
+[>>BakaXL帮助文档写作规范](null)
 
-1. 删除`C:\Windows\System32\drivers\etc\hosts`
 
-1. 按下`Windows`+`X` ，选择`Windows Powershell (管理员)`或`命令提示符 (管理员)`或`Windows 终端 (管理员)`
 
-1. 在弹出的窗口输入`netsh winsock reset`，并按下`Enter`执行
+[点击这里立刻fork我们的仓库](https://github.com/BakaXL-Support/BakaXL-QA-docs/fork)
 
-1. 重新启动您的电脑
+That's all,祝您生活愉快
 
-### 在 BakaXL 大厅联机中使用离线皮肤
 
----
 
-1. 前往`本体设置`并选择`账户与档案`
-1. 选择您的离线档案，并`点击为我的 Minecaft 角色设置离线皮肤`
-1. ![enableSkinShare-1](assets/imgs/enableSkinShare-1.png)
-1. 前往`领域 / 联机大厅`并选择`用户设置`
-1. 确保`BakaXL Network SkinShare 皮肤妙享`为`开`
+# 贡献者
 
-![setSkninShare-2](assets/imgs/enableSkinShare-2.png)
+感谢这些人的辛勤付出
 
-### 在 BakaXL 大厅联机中玩家之间无法显示对方的皮肤
+[![](https://contrib.rocks/image?repo=BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/graphs/contributors)
 
----
-
-> 请让大厅内的正版用户操作
-
-1. 前往`本体设置`并选择`账户与档案`
-
-1. 选择您的正版档案。
-
-1. 确保`使用此正版档案时加入皮肤妙享网络`为`开`
-
-> 当 ﻿ 启用`此正版档案时加入皮肤妙享网络` 时，你将无法进入开启了正版验证的服务器。
-
-### Minecraft 游戏崩溃了
-
----
-
-若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
-
-[Minecraft 1﻿.8 - 1.16.5 崩溃如何处理？](docs/Minecraft_1.8-1.16.5_CRQA.md)
-
-### 在 BakaXL 大厅联机中显示 “连接超时”
-
----
-
-> 若还没解决此问题，请在 BakaXL 用户群求助
-
-> 此提示可能是防火墙造成的问题
-
-1. 打开 Windows 系统的开始菜单搜索 `控制面板`
-1. 前往`系统和安全`
-1. 前往`Windows Defender 防火墙`
-1. 在旁边一栏找到`启用或关闭 Windows Defender 防火墙`
-1. ![closeWindowsDefender-1](assets/imgs/closeWindowsDefender-1.png)
-1. 关闭`Windows Defender 防火墙`
-
-![closeWindowsDefender-2](assets/imgs/closeWindowsDefender-2.png)
-
-1. 点击确定
-
-> **若大厅显示 NAT 严格，请双方都打开中继连接**
-
-### 版本更新通道
-
-`设置` -->`BakaXL 预览体验计划`来更改更新通道。
-
-> 推荐使用`Parrot 鹦鹉通道`
-
-![setParrot](assets/imgs/setParrotUpdate.png)
-
-### 微软登录时无法访问微软登录网页
-
-这一般是因为地区问题，微软服务器位于国外，国内访问会缓慢
-
-#### 解决方法
-
-1. 使用加速器，例如[VK 加速器](https://verykuai.com/)，在 VK 加速器中，加速我的世界 Hypixel 就可
-2. 更改 DNS 为 4.2.2.1，[更改 DNS 教程（win10）](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html) [更改 DNS 教程（win7）](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
-3. 使用 VPN
-
-**注意：方法 2 并不会百分百解决问题**
-
-### 若此文档未能解决您的问题，请参考这里
-
----
-
-请寻求 BakaXL 官方群聊中的开发者 / 群员的帮助，或自查。
-
-[如何正确地请求别人的帮助？](docs/询问问题的方法.md)
-
-求你们了，不要要再问一些让人血压高的问题了，求求你们了！
-![image](https://user-images.githubusercontent.com/94278322/163719886-5dc96a23-2919-4f9f-9d9a-2f120228c5e2.png)![image](https://user-images.githubusercontent.com/94278322/163719892-dd14dda9-ec89-4987-b060-a20a082700c8.png)![image](https://user-images.githubusercontent.com/94278322/163719897-2fb12031-bb59-4f69-9de9-89bc2e7b2ceb.png)
-
-
-### Bakaxl启动器 还有更多有趣的功能，还请各位去耐心探索！
-
-
+Made with [contrib.rocks](https://contrib.rocks).

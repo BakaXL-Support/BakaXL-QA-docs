@@ -1,14 +1,14 @@
+# Minecraft 1.8-1.16.5 版本常见游戏崩溃问题
+
 - 本文适用游戏版本：Minecraft 1.8 - 1.16.5
-
 - 本文适用系统版本：Windows 7 及以上
-
 - 使用计算机阅读效果更佳。
 
 
 
 > 使用右侧侧边栏目录快速查找您的问题
 >
-> ![目录](/assets/Minecraft_1.8-1.16.5_常见QA/catalogue.png)
+> ![目录](./assets/Minecraft_1.8-1.16.5_CRQA/catalogue.png)
 
 
 
@@ -18,7 +18,7 @@
 
 ### 使用 Forge 时
 
-由于`Forge`的神奇兼容，**请使用**`Java 8`**来运行你的 Minecraft**，若﻿仍然崩溃，请勿使用 `Java 8u321` 。（推荐使用：[__Java 8u312__](https://download.bell-sw.com/java/8u312+7/bellsoft-jre8u312+7-windows-amd64-full.msi))
+由于`Forge`的神奇兼容性，**请使用**`Java 8`**来运行你的 Minecraft**，若﻿仍然崩溃，请勿使用 `Java 8u321` 。（推荐使用：[__Java 8u312__](https://download.bell-sw.com/java/8u312+7/bellsoft-jre8u312+7-windows-amd64-full.msi))
 
 
 
@@ -34,7 +34,7 @@
 
 请按照自己的选择来关掉冲突的 Mod，若您不知道哪些 Mod 冲突，请前往 [__BakaXL 官方群聊__](https://jq.qq.com/?_wv=1027&k=TwvkLgkB)寻求帮助，或按照教程自查。
 
-![BakaXL Mod管理界面](/assets/Minecraft_1.8-1.16.5_常见QA/gameModSetting.png)
+![BakaXL Mod管理界面](./assets/Minecraft_1.8-1.16.5_CRQA/gameModSetting.png)
 
 ## 显卡驱动﻿过旧 / 未安装
 
@@ -50,7 +50,7 @@
 
 1. 在弹出的窗口中点击`显示` ，在`制造商`一列将会显示您的显卡制造商
 
-![dx诊断工具](/assets/Minecraft_1.8-1.16.5_常见QA/directXtools.png)
+![dx诊断工具](./assets/Minecraft_1.8-1.16.5_CRQA/directXtools.png)
 
 ### 笔记本
 
@@ -64,13 +64,13 @@
 
 前往 [__AMD 驱动程序与支持__](https://www.amd.com/zh-hans/support) 页面根据您的显卡 / 处理器型号下载最新的驱动程序 。
 
-![amd驱动下载页面](/assets/Minecraft_1.8-1.16.5_常见QA/amdDriver.png)
+![amd驱动下载页面](./assets/Minecraft_1.8-1.16.5_CRQA/amdDriver.png)
 
 ### NVIDIA 显卡
 
 请前往 [__NVIDIA 驱动程序__](https://www.nvidia.cn/geforce/drivers/) 页面根据显卡型号和需要下载最新的显卡驱动。
 
-![Nvidia驱动下载页面](/assets/Minecraft_1.8-1.16.5_常见QA/nvidiaDriver.png)
+![Nvidia驱动下载页面](./assets/Minecraft_1.8-1.16.5_CRQA/nvidiaDriver.png)
 
 ## 分配内存过大 (过小)
 
@@ -86,7 +86,7 @@
 
 > 最低内存设置为 1GB 
 
-![系统内存](/assets/Minecraft_1.8-1.16.5_常见QA/systemMemory.png)
+![系统内存](./assets/Minecraft_1.8-1.16.5_CRQA/systemMemory.png)
 
 > Mod 越多（或材质包分辨率更大，能见度更远）时你需要分配更多的内存，但是不要超出你的可用内存。
 
@@ -94,5 +94,5 @@
 
 请寻求 BakaXL 官方群聊中的开发者 / 群员的帮助，或自查。
 
-[如何正确地请求别人的帮助？](询问问题的方法.md)
+[如何正确地请求别人的帮助？](./How_To_Ask_Question.md)
 
