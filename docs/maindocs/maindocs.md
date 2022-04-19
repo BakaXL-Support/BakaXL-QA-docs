@@ -18,7 +18,7 @@
 
 ### 在 BakaXL 大厅里面无法创建大厅
 
-![报错](./assets/imgs/Bakaxl_online problem.png)
+![报错](./assets/imgs/Bakaxl_online_problem.png)
 
 > 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
 
