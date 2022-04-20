@@ -1,7 +1,7 @@
 module.exports = {
   theme: '@vuepress/theme-default',
   title: 'BakaXL 启动器用户文档',
-  description: '提供BakaXL启动器在使用时疑难解答服务，同时也提供了一些其他的技术文档',  
+  description: '提供 BakaXL 启动器在使用时疑难解答服务，同时也提供了一些其他的技术文档',  
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
@@ -17,8 +17,8 @@ module.exports = {
       {
         text: '相关文档',
         items: [
-          { text: '1.8-1.16.5版本常见问题', link: '/maindocs/Minecraft_1.8-1.16.5_CRQA/'},
-          { text: 'BakaXL文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules/' },
+          { text: '1.8-1.16.5 版本常见问题', link: '/maindocs/Minecraft_1.8-1.16.5_CRQA/'},
+          { text: 'BakaXL 文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules/' },
           { text: '如何提出一个合适的问题', link: '/maindocs/How_To_Asking_Question/' }
         ]
       } 
