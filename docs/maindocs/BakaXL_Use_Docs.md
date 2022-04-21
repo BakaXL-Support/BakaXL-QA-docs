@@ -42,7 +42,7 @@
 
 `本体设置` >`账户与档案` >`新增一个档案` 来创建新的档案。
 
-![设置游戏档案](./assets/userdocs/setGameProfile.png)
+![设置游戏档案](./assets/userdocs/setGameProfile.gif)
 
 
 
