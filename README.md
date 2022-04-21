@@ -1,6 +1,6 @@
 # BakaXL 用户帮助文档
 
-![last update in main](https://img.shields.io/github/last-commit/BakaXL-Support/BakaXL-QA-docs)  ![issues](https://img.shields.io/github/issues/BakaXL-Support/BakaXL-QA-docs)  ![pullrequest](https://img.shields.io/github/issues-pr/BakaXL-Support/BakaXL-QA-docs)  ![last vuepress CI](https://img.shields.io/github/workflow/status/BakaXL-Support/BakaXL-QA-docs/Push2update-Website)
+[![last update in main](https://img.shields.io/github/last-commit/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/commits/main)  [![issues](https://img.shields.io/github/issues/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues)  [![pullrequest](https://img.shields.io/github/issues-pr/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/pulls)  [![last vuepress CI](https://img.shields.io/github/workflow/status/BakaXL-Support/BakaXL-QA-docs/Push2update-Website)](https://github.com/BakaXL-Support/BakaXL-QA-docs/actions)
 
 **为新一代Minecraft崩坏启动器用户编写的使用文档**
 
