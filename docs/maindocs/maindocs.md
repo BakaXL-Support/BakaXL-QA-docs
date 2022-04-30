@@ -100,7 +100,7 @@
 
 若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
 
-[Minecraft 1.8 - 1.16.5 崩溃如何处理？](./subdocs/Minecraft_1.8-1.16.5_CRQA.md)
+[Minecraft 1.8 - 1.16.5 崩溃如何处理？](./Minecraft_1.8-1.16.5_CRQA.md)
 
 
 
