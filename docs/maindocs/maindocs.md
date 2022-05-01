@@ -159,7 +159,7 @@
 
 #### 解决方法
 
-1. 使用加速器，例如[VK 加速器](https://verykuai.com/)，在 VK 加速器中，加速我的世界 Hypixel 就可
+1. 使用加速器，例如[VK 加速器](https://verykuai.com/)，在 VK 加速器中，加速我的世界 Hypixel 就可 [→加速教程←](https://kingosuper.zyglq.cn/2022/04/25/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8vk%e5%8a%a0%e9%80%9f%e5%99%a8%e5%8a%a0%e9%80%9f%e5%be%ae%e8%bd%af%e7%bd%91%e7%ab%99/)
 2. 更改 DNS 为`223.5.5.5` 和 `4.2.2.1`       [更改 DNS 教程(Win10)](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html)  [更改 DNS 教程(Win7)](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)
 3. 使用科学上网方法，启动全局代理模式
 
