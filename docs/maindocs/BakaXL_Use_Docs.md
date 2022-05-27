@@ -140,7 +140,23 @@
 
 
 
+## 安装 Mod
 
+BakaXL 支持通过笨蛋广场来安装 Fabirc Mod 、Forge Mod 等众多加载器所支持的 Mod。 
+
+您可以前往 `笨蛋广场` 点击右上角的搜索框可进行 Mod 的查找。
+
+>**注意**
+>
+>安装 Mod 需要安装对应的 Minecraft版本、对应的Mod加载器以及前置,否则 Mod 将无法启动或报错。
+
+### 下载 Mod
+
+单击进入 Mod 介绍界面，点击 `下载`  ，然后使用过滤器进行 Mod 版本的筛选。
+
+点击需要的 Mod 版本（非右方箭头）时选择对应的 Minecraft核心 进行安装 Mod，BakaXL 会自动下载并放入Mod文件夹内，当点击右方箭头时，您可以自定义 Mod 下载后所保存的位置。
+
+![添加Mod](./assets/userdocs/addModToCore.gif)
 
 ## 添加已拥有的 Minecraft 核心 或 整合包
 
