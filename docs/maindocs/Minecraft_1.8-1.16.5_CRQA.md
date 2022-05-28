@@ -36,7 +36,7 @@
 
 ![BakaXL Mod管理界面](./assets/Minecraft_1.8-1.16.5_CRQA/gameModSetting.png)
 
-## 显卡驱动﻿过旧 / 未安装
+## 显卡驱动过旧 / 未安装
 
 ***
 
