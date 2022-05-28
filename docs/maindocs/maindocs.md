@@ -81,7 +81,7 @@
 若存在mod/资源包/光影/存档/数据包等不加载的情况
 
 1. 请使用BakaXL[安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
-2. 将 <kbd>*.minecraft*</kbd> 目录下 <abd>*saves*</kbd>（游戏存档），<kbd>*mods*</kbd>（模组），<kbd>*resources*</kbd>（资源包），<kbd>*shaderpacks*</kbd>（光影包）文件夹移动至 <kbd>*.minecraft/versions/*<对应版本></kbd> 文件夹中
+2. 将 *.minecraft* 目录下 *saves*（游戏存档），*mods*（模组），*resources*（资源包），*shaderpacks*（光影包）文件夹移动至 *.minecraft/versions/<对应版本>* 文件夹中
 3. 重新启动该版本
 
 若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。
