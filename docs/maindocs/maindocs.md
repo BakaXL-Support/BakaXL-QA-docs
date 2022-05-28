@@ -70,6 +70,10 @@
 
 ![setParrot](./assets/imgs/setParrotUpdate.png)
 
+### 进入笨蛋广场提示“BakaXL笨蛋广场目前仍在施工，当前尚未支持资源下载”
+
+请更新至最新预览版BakaXL，详细操作[在这里](#如何更新到最新预览版BakaX)
+
 ## 游戏问题一览
 
 ### 我使用BakaXL启动其他启动器所安装的游戏版本，但mod、资源包、光影未加载/存档消失了
