@@ -70,6 +70,10 @@
 
 ![setParrot](./assets/imgs/setParrotUpdate.png)
 
+### 进入笨蛋广场提示“BakaXL笨蛋广场目前仍在施工，当前尚未支持资源下载”
+
+请更新至最新预览版BakaXL，详细操作[在这里](#如何更新到最新预览版BakaX)
+
 ## 游戏问题一览
 
 ### 我使用BakaXL启动其他启动器所安装的游戏版本，但mod、资源包、光影未加载/存档消失了
@@ -102,9 +106,35 @@
 
 ### Minecraft 游戏崩溃了
 
-若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
+#### 若您的版本是 Minecraft 1.17 及以上
+
+请确保使用了[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)及以上（推荐使用[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)）
+
+#### 若您的游戏版本是 Minecraft 1.8 - 1.16.5
+
+请参考此篇文档
 
 [Minecraft 1.8 - 1.16.5 崩溃如何处理？](./Minecraft_1.8-1.16.5_CRQA.md)
+
+#### 若您的版本是 Minecraft 1.7.10
+
+在此版本使用正版账户登录也许会出现一些意想不到的问题，若您没有特殊需求建议选择离线账户登录
+
+#### 全版本通性
+
+1. .minecraft目录中存在中文字符
+   
+>为了解决问题同时不影响该目录下其他应用程序的日常使用
+>
+>请将 <kbd>*BakaXL.exe*</kbd>，<kbd>*BakaXL* 文件夹</kbd>，<kbd>*.minecraft* 文件夹</kbd> 
+>
+>移动至不含有中文字符的同一目录下
+
+2. mod 冲突/存在不适配的mod/缺少前置mod
+
+>请参考此篇文档
+>
+>[Mod 冲突](./Minecraft_1.8-1.16.5_CRQA.md/#mod-冲突)
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
