@@ -128,7 +128,7 @@
 
 >为了解决问题同时不影响该目录下其他应用程序的日常使用
 >
->请将 <kbd>*BakaXL.exe*</kbd>，<kbd>*BakaXL* 文件夹</kbd>，<kbd>*.minecraft* 文件夹</kbd>
+>请将 <kbd><em>BakaXL.exe</em></kbd>，<kbd><em>BakaXL</em> 文件夹</kbd>，<kbd><em>.minecraft</em> 文件夹</kbd>
 >
 >移动至不含有中文字符的同一目录下
 
