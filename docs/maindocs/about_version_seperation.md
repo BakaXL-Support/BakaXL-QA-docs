@@ -5,10 +5,10 @@
 顾名思义，版本隔离即为将版本隔离为独立的个体
 
 * 版本隔离实际操作为指定游戏目录，是游戏本身所具有的功能，开启后不会对游戏产生影响。
-* 开启版本隔离后会把除 <kbd>*assets*</kbd>和<kbd>*libraries*</kbd> 等文件夹之外的内容放到指定的目录。
-* 不开启版本隔离时游戏本体存储在 <kbd>*.minecraft*</kbd> 目录中
-* 开启版本隔离后游戏本体存储在 <kbd>*.minecraft/version/*</kbd> 目录中<br>
-  （其中包括<kbd>*.minecraft*</kbd> 目录下 <kbd>*saves*</kbd>（游戏存档），<kbd>*mods*</kbd>（模组），<kbd>*resources*</kbd>（资源包），<kbd>*shaderpacks*</kbd>（光影包）等文件夹）
+* 开启版本隔离后会把除 *`assets`*和*`libraries`* 等文件夹之外的内容放到指定的目录。
+* 不开启版本隔离时游戏本体存储在 *`.minecraft`* 目录中
+* 开启版本隔离后游戏本体存储在 *`.minecraft/version/`*目录中
+  （其中包括*`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resources`*（资源包），*`shaderpacks`*（光影包）等文件夹）
   
 
 因此，开启版本隔离后，你可以**启动多个含加载器的版本，且其模组，资源包，光影，存档，数据包等不影响其他版本**
@@ -30,7 +30,7 @@
 
 假设有两个版本分别为A与B，希望将其存档互通
 
-1. 找到两个版本的存档文件夹，目录分别为 <kbd>*~/.minecraft/versions/A/saves*</kbd> 与  <kbd>*~/.minecraft/versions/B/saves*</kbd>
+1. 找到两个版本的存档文件夹，目录分别为 *`~/.minecraft/versions/A/saves`* 与  *`~/.minecraft/versions/B/saves`*
 2. 将B存档文件夹中内容（如果存在的话）全部移至A存档文件夹，并删除B存档文件夹
 3. 打开命令提示符（CMD）输入
    ```
