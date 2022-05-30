@@ -33,12 +33,12 @@
 1. 找到两个版本的存档文件夹，目录分别为 *`~/.minecraft/versions/A/saves`* 与  *`~/.minecraft/versions/B/saves`*
 2. 将B存档文件夹中内容（如果存在的话）全部移至A存档文件夹，并删除B存档文件夹
 3. 打开命令提示符（CMD）输入
-   ```
+   ```shell
    mklink /J "~/.minecraft/versions/B/saves" "~/.minecraft/versions/B/saves"
    ```
    这将建立一个由A存档目录指向B存档目录的软链接
 4. 输出
-   ```
+   ```shell
    为 ~/.minecraft/versions/B/saves <<===>> ~/.minecraft/versions/B/saves 创建的联接
    ```
    即成功创建软链接
