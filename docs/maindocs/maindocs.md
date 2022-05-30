@@ -94,6 +94,8 @@
 
 [关于版本隔离](./about_version_seperation.md "关于版本隔离")
 
+>若您使用`Fabric`作为模组加载器，请安装`Mod Menu`模组，否则将不会在游戏内显示`Mod`按钮
+
 ### 我使用BakaXL打开其他启动器所使用的.minecraft文件夹，却显示没有可用核心
 
 解决方法同上问
