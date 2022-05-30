@@ -1,7 +1,7 @@
 # BakaXL 启动器常见问题解决方案文档
 
 > tips:使用左侧的侧边栏目录来快速寻找您的问题
-> 
+>
 > ![目录截图](./assets/imgs/directory.png)
 
 ## 常见 BakaXL 问题一览
@@ -85,9 +85,9 @@
 若存在mod/资源包/光影/存档/数据包等不加载的情况
 
 1. 请使用BakaXL[安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
-2. 将 <kbd>*.minecraft*</kbd> 目录下<br>
-   <abd>*saves*</kbd>（游戏存档），<kbd>*mods*</kbd>（模组），<kbd>*resources*</kbd>（资源包），<kbd>*shaderpacks*</kbd>（光影包）文件夹移动至<br>
-   <kbd>*.minecraft/versions/*<对应版本></kbd> 文件夹中
+2. 将 <kbd><em>.minecraft*</em></kbd> 目录下<br>
+   <abd><em>saves</em></kbd>（游戏存档），<kbd><em>mods</em></kbd>（模组），<kbd><em>resources</em></kbd>（资源包），<kbd><em>shaderpacks</em></kbd>（光影包）文件夹移动至<br>
+   <kbd><em>.minecraft</em>/<em>versions</em>/&lt;对应版本&gt;</kbd> 文件夹中
 3. 重新启动该版本
 
 若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。
@@ -123,14 +123,14 @@
 #### 全版本通性
 
 1. .minecraft目录中存在中文字符
-   
+
 >为了解决问题同时不影响该目录下其他应用程序的日常使用
 >
->请将 <kbd>*BakaXL.exe*</kbd>，<kbd>*BakaXL* 文件夹</kbd>，<kbd>*.minecraft* 文件夹</kbd> 
+>请将 <kbd>*BakaXL.exe*</kbd>，<kbd>*BakaXL* 文件夹</kbd>，<kbd>*.minecraft* 文件夹</kbd>
 >
 >移动至不含有中文字符的同一目录下
 
-2. mod 冲突/存在不适配的mod/缺少前置mod
+1. mod 冲突/存在不适配的mod/缺少前置mod
 
 >请参考此篇文档
 >
@@ -201,7 +201,7 @@
 - 在BakaXL帮助文档中心求助: [以提议的方式求助](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues/new/choose) [以讨论的方式求助](https://github.com/BakaXL-Support/BakaXL-QA-docs/discussions)
 
 > 通常来说在帮助文档中心求助我们更建议以 *提议的方式* 发送您的问题，但是有些麻烦，因为需要您提供足够的信息来分析原因
-> 
+>
 > 您通常提前得知道如何正确将信息给予我们
 
 [《如何正确地请求别人的帮助？》](./subdocs/How_To_Asking_Question.md)
