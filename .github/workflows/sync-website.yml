@@ -12,7 +12,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: BakaXL-Support/BakaXL-docs-deploy
-          TARGET_BRANCH: main
+          TARGET_BRANCH: dev
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
           COMMIT_MESSAGE: Auto Deploy Success
