@@ -12,6 +12,7 @@ module.exports = {
         text: '相关文档',
         children: [
           { text: '游戏常见问题', link: '/maindocs/Minecraft_CRQA/',},
+          { text: '关于版本隔离', link: '/maindocs/About_Version_Seperation/', },
           { text: 'BakaXL 文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules/', },
           { text: '如何提出一个合适的问题', link: '/maindocs/How_To_Asking_Question/', },
         ],
