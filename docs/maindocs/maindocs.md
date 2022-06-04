@@ -28,11 +28,11 @@
 
 > 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
 
-![检查Minecraft是否启动局域网联机](./assets/imgs/Resolve_Minecraft_online_issues.png)
+![检查Minecraft是否启动局域网联机](./assets/imgs/resolveMinecraftOnlineIssues.png)
 
-![](./assets/imgs/Solve_Bakaxl_online_problems(1).png)
+![](./assets/imgs/solveBakaXLOnlineProblems-1.png)
 
-![](assets/imgs/Solve_Bakaxl_online_problems(2).png)
+![](assets/imgs/solveBakaXLOnlineProblems-2.png)
 
 > 如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请卸载更换其他 Java/JDK
 
