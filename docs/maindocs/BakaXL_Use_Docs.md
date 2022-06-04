@@ -16,6 +16,8 @@
 
 
 
+<span id="download"></span>
+
 ## 下载
 
 您可以随时在 BakaXL 官网下载最新版本的 BakaXL：
@@ -56,7 +58,7 @@
 
 ![设置鹦鹉通道](./assets/userdocs/switchToParrotProxy.gif)
 
-这样您就﻿可以随时更新到 BakaXL 的最新版本啦！
+这样您就可以随时更新到 BakaXL 的最新版本啦！
 
 如果因某些原因，BakaXL 无法自动更新或无限更新失败，您也可以随时在 [Jenkins](http://jk-insider.bakaxl.com:8888/job/BakaXL%20Insider%20Parrot/) 下载最后一次构建的结果。
 
@@ -256,4 +258,4 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 
 
->  如果﻿您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在BakaXL Outsider QQ群（480455628）来寻求帮助。
+>  如果您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在BakaXL Outsider QQ群（480455628）来寻求帮助。
