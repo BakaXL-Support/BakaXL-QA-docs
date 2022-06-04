@@ -1,5 +1,6 @@
-.idea
-.vscode
+.idea/*
+.vscode/*
+.vs/*
 dist
 /docs/.vuepress/dist
 node_modules

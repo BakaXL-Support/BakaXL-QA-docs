@@ -1,10 +1,14 @@
 # BakaXL 启动器常见问题解决方案文档
 
 > tips:使用左侧的侧边栏目录来快速寻找您的问题
-> 
+>
 > ![目录截图](./assets/imgs/directory.png)
 
 ## 常见 BakaXL 问题一览
+
+### BakaXL常见错误代码
+
+见 [BakaXL常见错误代码](.\error_code.md) 一文
 
 ### 如何切换 Minecraft 核心
 
@@ -60,8 +64,6 @@
 2. 选择您的正版档案。
 3. 确保 `使用此正版档案时加入皮肤妙享网络`为 `开`
 
-> 当启用 `此正版档案时加入皮肤妙享网络` 时，你将无法进入开启了正版验证的服务器。
-
 ### 如何更新到最新预览版 BakaXL
 
 > 由于 BakaXL 更新周期机制，正式版的 Bug 很有可能比预览版的 Bug 还多(特性)
@@ -70,23 +72,29 @@
 
 ![setParrot](./assets/imgs/setParrotUpdate.png)
 
+### 进入笨蛋广场提示“BakaXL笨蛋广场目前仍在施工，当前尚未支持资源下载”
+
+请更新至最新预览版BakaXL，详细操作[在这里](#如何更新到最新预览版BakaX)
+
 ## 游戏问题一览
 
-### 我使用BakaXL启动其他启动器所安装的游戏版本，其mod未加载
+### 我使用BakaXL启动其他启动器所安装的游戏版本，但mod、资源包、光影未加载/存档消失了
 
-这通常是因为您先前所使用的启动器未打开[版本隔离](./about_version_seperation.md "关于版本隔离")导致的
+这通常是因为您先前所使用的启动器**未打开**[**版本隔离**](./about_version_seperation.md "关于版本隔离")导致的
 
 为避免新手存在**无法同时安装多个含加载器的版本**的问题，BakaXL默认且**锁定**为开启版本隔离
 
 若存在 mod/资源包/光影/存档/数据包 等不加载的情况
 
 1. 请使用 BakaX L[安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
-2. 将 *.minecraft* 目录下 *saves*（游戏存档），*mods*（模组），*resources*（资源包），*shaderpacks*（光影包）文件夹移动至 *.minecraft/versions/<对应版本>* 文件夹中
+2. 将 *`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resources`*（资源包），*`shaderpacks`*（光影包）文件夹移动至 *`.minecraft/versions/(对应版本的文件夹名称)`* 文件夹中
 3. 重新启动该版本
 
 若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。
 
 [关于版本隔离](./About_Version_Seperation.md "关于版本隔离")
+
+>若您使用`Fabric`作为模组加载器，请安装`Mod Menu`模组，否则将不会在游戏内显示`Mod`按钮
 
 ### 我使用BakaXL打开其他启动器所使用的.minecraft文件夹，却显示没有可用核心
 
@@ -100,9 +108,35 @@
 
 ### Minecraft 游戏崩溃了
 
-若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。
+#### 若您的版本是 Minecraft 1.17 及以上
+
+请确保使用了[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)及以上（推荐使用[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)）
+
+#### 若您的游戏版本是 Minecraft 1.8 - 1.16.5
+
+请参考此篇文档
 
 [Minecraft 1.8 - 1.16.5 崩溃如何处理？](./Minecraft_1.8-1.16.5_CRQA.md)
+
+#### 若您的版本是 Minecraft 1.7.10
+
+在此版本使用正版账户登录也许会出现一些意想不到的问题，若您没有特殊需求建议选择离线账户登录
+
+#### 全版本通性
+
+1. .minecraft目录中存在中文字符
+
+>为了解决问题同时不影响该目录下其他应用程序的日常使用
+>
+>请将 <kbd><em>BakaXL.exe</em></kbd>，<kbd><em>BakaXL</em> 文件夹</kbd>，<kbd><em>.minecraft</em> 文件夹</kbd>
+>
+>移动至不含有中文字符的同一目录下
+
+1. mod 冲突/存在不适配的mod/缺少前置mod
+
+>请参考此篇文档
+>
+>[Mod 冲突](./Minecraft_1.8-1.16.5_CRQA.md/#mod-冲突)
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
@@ -161,7 +195,7 @@
 
 ### 在联机时BakaXL显示仅使用IPv4
 
-请致电互联网服务提供商（电信 10000 / 联通 10010 / 移动 10086 ）要求上门调试 IPv6 <del>，若出现拒不调试的情况可以拨打工信部电话 12300 投诉 </del>
+请致电互联网服务提供商（电信 10000 / 联通 10010 / 移动 10086 ）要求上门调试 IPv6 ~~，若出现拒不调试的情况可以拨打工信部电话 12300 投诉 ~~
 
 ## 若此文档未能解决您的问题
 
@@ -169,7 +203,7 @@
 - 在BakaXL帮助文档中心求助: [以提议的方式求助](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues/new/choose) [以讨论的方式求助](https://github.com/BakaXL-Support/BakaXL-QA-docs/discussions)
 
 > 通常来说在帮助文档中心求助我们更建议以 *提议的方式* 发送您的问题，但是有些麻烦，因为需要您提供足够的信息来分析原因
-> 
+>
 > 您通常提前得知道如何正确将信息给予我们
 
 [《如何正确地请求别人的帮助？》](./subdocs/How_To_Asking_Question.md)
