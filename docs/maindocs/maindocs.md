@@ -8,7 +8,7 @@
 
 ### BakaXL常见错误代码
 
-见 [BakaXL常见错误代码](.\error_code.md)
+见 [BakaXL常见错误代码](.\error_code.md) 一文
 
 ### 如何切换 Minecraft 核心
 
@@ -32,11 +32,11 @@
 
 > 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
 
-![检查Minecraft是否启动局域网联机](./assets/imgs/Resolve_Minecraft_online_issues.png)
+![检查Minecraft是否启动局域网联机](./assets/imgs/resolveMinecraftOnlineIssues.png)
 
-![](./assets/imgs/Solve_Bakaxl_online_problems(1).png)
+![](./assets/imgs/solveBakaXLOnlineProblems-1.png)
 
-![](assets/imgs/Solve_Bakaxl_online_problems(2).png)
+![](./assets/imgs/solveBakaXLOnlineProblems-2.png)
 
 > 如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请卸载更换其他 Java/JDK
 
@@ -84,17 +84,15 @@
 
 为避免新手存在**无法同时安装多个含加载器的版本**的问题，BakaXL默认且**锁定**为开启版本隔离
 
-若存在mod/资源包/光影/存档/数据包等不加载的情况
+若存在 mod/资源包/光影/存档/数据包 等不加载的情况
 
-1. 请使用BakaXL[安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
-2. 将 <kbd><em>.minecraft*</em></kbd> 目录下<br>
-   <abd><em>saves</em></kbd>（游戏存档），<kbd><em>mods</em></kbd>（模组），<kbd><em>resources</em></kbd>（资源包），<kbd><em>shaderpacks</em></kbd>（光影包）文件夹移动至<br>
-   <kbd><em>.minecraft</em>/<em>versions</em>/&lt;对应版本&gt;</kbd> 文件夹中
+1. 请使用 BakaX L[安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
+2. 将 *`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resources`*（资源包），*`shaderpacks`*（光影包）文件夹移动至 *`.minecraft/versions/(对应版本的文件夹名称)`* 文件夹中
 3. 重新启动该版本
 
 若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。
 
-[关于版本隔离](./about_version_seperation.md "关于版本隔离")
+[关于版本隔离](./About_Version_Seperation.md "关于版本隔离")
 
 >若您使用`Fabric`作为模组加载器，请安装`Mod Menu`模组，否则将不会在游戏内显示`Mod`按钮
 

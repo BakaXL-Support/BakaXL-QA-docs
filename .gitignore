@@ -4,5 +4,5 @@
 dist
 /docs/.vuepress/dist
 node_modules
-
-yarn.lock
+/docs/.vuepress/.temp
+/docs/.vuepress/.cache

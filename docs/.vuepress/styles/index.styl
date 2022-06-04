@@ -44,7 +44,7 @@
     display: flex
     justify-content: center
     align-items: center
-
+.suggestions,
 .nav-item .dropdown-wrapper .nav-dropdown
     box-shadow: var(--basic-line-slender);
     box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.02)
@@ -58,6 +58,8 @@
     transition: 250ms
     animation: sidebar-ul 150ms;
     animation-timing-function: ease-in-out
+    box-sizing:border-box
+    width:auto
 
 @keyframes sidebar-ul {
   0% {
@@ -69,7 +71,7 @@
     opacity:1;
   }
 }
-
+.suggestions li,
 .dropdown-item
     padding: 4px 4px 4px 4px
     border-radius: 4px
@@ -94,7 +96,7 @@ img
     animation: anim .4s
 .home
     animation: anim .4s
-    
+
 @keyframes anim {
   0% {
   transform: translateY(20px);
