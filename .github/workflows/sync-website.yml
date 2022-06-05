@@ -1,5 +1,12 @@
 name: Push2update-Website
-on: [push]
+on:
+  push:
+    branches:
+      - main
+    paths-ignore: 
+      - README.md
+      - LICENSE
+      - sync-website.yml
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -12,7 +19,7 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: BakaXL-Support/BakaXL-docs-deploy
-          TARGET_BRANCH: dev
+          TARGET_BRANCH: main
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
           COMMIT_MESSAGE: Auto Deploy Success
