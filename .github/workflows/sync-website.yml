@@ -1,5 +1,12 @@
 name: Push2update-Website
-on: [push]
+on:
+  push:
+    branches:
+      - main
+    paths-ignore: 
+      - README.md
+      - LICENSE
+      - sync-website.yml
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
