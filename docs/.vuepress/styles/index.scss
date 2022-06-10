@@ -4,10 +4,10 @@ scroll-behavior: smooth;
 :root {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   // brand colors
-  --c-brand: rgb(64, 52, 226);
-  --c-brand-light: rgba(104, 64, 251, 0.671);
+  --c-brand: rgb(32, 173, 255);
+  --c-brand-light: rgba(46, 192, 255, 0.671);
   // link-icon
-  --external-link-icon-color: rgb(32, 47, 255);
+  --external-link-icon-color: rgb(38, 151, 212);
   //bar
   --siderbar-backgrounnd: rgba(255, 255, 255, 0.432);
   --line: rgb(236 236 236) 0 0 0 1px;
@@ -33,15 +33,15 @@ scroll-behavior: smooth;
   --c-border-dark: #e5e3df;
 
   // custom container colors
-  --c-tip: rgb(83, 64, 251);
+  --c-tip: #00aeff;
   --c-tip-bg: var(--c-bg-light);
   --c-tip-title: var(--c-text);
   --c-tip-text: var(--c-text);
   --c-tip-text-accent: var(--c-text-accent);
-  --c-warning: #0400e7;
-  --c-warning-bg: #fffae3;
-  --c-warning-title: #0c00ad;
-  --c-warning-text: #001574;
+  --c-warning: #eeff00;
+  --c-warning-bg: #fffce0;
+  --c-warning-title: #ffee00;
+  --c-warning-text: #3b3300;
   --c-warning-text-accent: var(--c-text);
   --c-danger: #cc0000;
   --c-danger-bg: #ffe0e0;
@@ -142,10 +142,11 @@ scroll-behavior: smooth;
 }
 
 html.dark {
+  
   // brand colors
-  --c-brand: rgb(31, 34, 219);
-  --c-brand-light: rgba(31, 59, 219, 0.685);
-
+  --c-brand: rgb(23,150,223);
+  --c-brand-light: rgba(41,177,234, 0.671);
+  
   // background colors
   --c-bg: #22272e;
   --c-bg-light: #2b313a;
@@ -162,11 +163,11 @@ html.dark {
   --c-border-dark: #34404c;
 
   // custom container colors
-  --c-tip: #8a6b31;
-  --c-warning: #0e00ce;
+  --c-tip: #00aeff;
+  --c-warning: #e5ff00;
   --c-warning-bg: #7e755b;
-  --c-warning-title: #0603ce;
-  --c-warning-text: #362e00;
+  --c-warning-title: #e5ff00;
+  --c-warning-text: #3b3300;
   --c-danger: #940000;
   --c-danger-bg: #806161;
   --c-danger-title: #610000;
