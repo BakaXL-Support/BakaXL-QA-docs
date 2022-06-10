@@ -162,12 +162,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1653706139000,
+    "updatedTime": 1654369067000,
     "contributors": [
       {
         "name": "XiaoMouz",
         "email": "1114096791@qq.com",
-        "commits": 2
+        "commits": 3
       },
       {
         "name": "Missdrop",

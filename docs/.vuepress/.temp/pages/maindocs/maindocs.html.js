@@ -13,6 +13,12 @@ export const data = {
       "children": [
         {
           "level": 3,
+          "title": "BakaXL常见错误代码",
+          "slug": "bakaxl常见错误代码",
+          "children": []
+        },
+        {
+          "level": 3,
           "title": "如何切换 Minecraft 核心",
           "slug": "如何切换-minecraft-核心",
           "children": []
@@ -46,6 +52,12 @@ export const data = {
           "title": "如何更新到最新预览版 BakaXL",
           "slug": "如何更新到最新预览版-bakaxl",
           "children": []
+        },
+        {
+          "level": 3,
+          "title": "进入笨蛋广场提示“BakaXL笨蛋广场目前仍在施工，当前尚未支持资源下载”",
+          "slug": "进入笨蛋广场提示-bakaxl笨蛋广场目前仍在施工-当前尚未支持资源下载",
+          "children": []
         }
       ]
     },
@@ -56,8 +68,8 @@ export const data = {
       "children": [
         {
           "level": 3,
-          "title": "我使用BakaXL启动其他启动器所安装的游戏版本，其mod未加载",
-          "slug": "我使用bakaxl启动其他启动器所安装的游戏版本-其mod未加载",
+          "title": "我使用BakaXL启动其他启动器所安装的游戏版本，但mod、资源包、光影未加载/存档消失了",
+          "slug": "我使用bakaxl启动其他启动器所安装的游戏版本-但mod、资源包、光影未加载-存档消失了",
           "children": []
         },
         {
@@ -125,12 +137,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1653713584000,
+    "updatedTime": 1654369067000,
     "contributors": [
       {
         "name": "XiaoMouz",
         "email": "1114096791@qq.com",
-        "commits": 5
+        "commits": 7
       },
       {
         "name": "¯\\_(ツ)_/¯",
