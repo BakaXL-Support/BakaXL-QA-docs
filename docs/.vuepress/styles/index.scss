@@ -4,10 +4,10 @@ scroll-behavior: smooth;
 :root {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   // brand colors
-  --c-brand: rgba(251, 182, 64, 1);
-  --c-brand-light: rgba(251, 182, 64, 0.671);
+  --c-brand: rgb(64, 52, 226);
+  --c-brand-light: rgba(104, 64, 251, 0.671);
   // link-icon
-  --external-link-icon-color: rgb(255, 173, 32);
+  --external-link-icon-color: rgb(32, 47, 255);
   //bar
   --siderbar-backgrounnd: rgba(255, 255, 255, 0.432);
   --line: rgb(236 236 236) 0 0 0 1px;
@@ -25,7 +25,7 @@ scroll-behavior: smooth;
   --c-text-accent: var(--c-brand);
   --c-text-light: #000000;
   --c-text-lighter: #0e0e0e;
-  --c-text-lightest: #ad8e6a;
+  --c-text-lightest: #6a74ad;
   --c-text-quote: #c2b5a1;
 
   // border colors
@@ -33,15 +33,15 @@ scroll-behavior: smooth;
   --c-border-dark: #e5e3df;
 
   // custom container colors
-  --c-tip: rgba(251, 182, 64, 1);
+  --c-tip: rgb(83, 64, 251);
   --c-tip-bg: var(--c-bg-light);
   --c-tip-title: var(--c-text);
   --c-tip-text: var(--c-text);
   --c-tip-text-accent: var(--c-text-accent);
-  --c-warning: #e7c000;
+  --c-warning: #0400e7;
   --c-warning-bg: #fffae3;
-  --c-warning-title: #ad9000;
-  --c-warning-text: #746000;
+  --c-warning-title: #0c00ad;
+  --c-warning-text: #001574;
   --c-warning-text-accent: var(--c-text);
   --c-danger: #cc0000;
   --c-danger-bg: #ffe0e0;
@@ -143,8 +143,8 @@ scroll-behavior: smooth;
 
 html.dark {
   // brand colors
-  --c-brand: rgba(219, 150, 31, 1);
-  --c-brand-light: rgba(219, 150, 31, 0.685);
+  --c-brand: rgb(31, 34, 219);
+  --c-brand-light: rgba(31, 59, 219, 0.685);
 
   // background colors
   --c-bg: #22272e;
@@ -163,9 +163,9 @@ html.dark {
 
   // custom container colors
   --c-tip: #8a6b31;
-  --c-warning: #ceab00;
+  --c-warning: #0e00ce;
   --c-warning-bg: #7e755b;
-  --c-warning-title: #ceac03;
+  --c-warning-title: #0603ce;
   --c-warning-text: #362e00;
   --c-danger: #940000;
   --c-danger-bg: #806161;
@@ -237,7 +237,7 @@ li a {
 }
 
 .home .hero .action-button {
-  background: rgba(255, 181, 54, 1);
+  background-color: var(--c-brand);
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.04);
   border-radius: 6px !important;
   display: flex !important;
@@ -249,7 +249,7 @@ li a {
 }
 
 .home .hero .action-button.secondary {
-  border: 1px solid rgba(255, 210, 133, 1);
+  border: 1px solid var(--c-brand);
   border-radius: 6px;
   mix-blend-mode: normal;
   display: flex;
@@ -310,7 +310,7 @@ li a {
 }
 .sidebar{
   animation: sidebar 400ms; 
-  background: url(/images/back.svg),linear-gradient(0deg, rgba(255, 185, 99, 0) 0%, rgba(255, 185, 99, 0.04) 100%),var(--c-bg);
+  background:var(--c-bg);
   background-position:100% 100%;
   background-repeat: no-repeat;
   background-size: 100%;
