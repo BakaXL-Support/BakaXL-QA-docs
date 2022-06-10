@@ -14,8 +14,8 @@ export const data = {
     },
     {
       "level": 3,
-      "title": "统一格式",
-      "slug": "统一格式",
+      "title": "文本格式",
+      "slug": "文本格式",
       "children": []
     },
     {
@@ -32,8 +32,8 @@ export const data = {
     },
     {
       "level": 3,
-      "title": "截图",
-      "slug": "截图",
+      "title": "截图 / 被相对调用的资源",
+      "slug": "截图-被相对调用的资源",
       "children": []
     },
     {
@@ -44,18 +44,24 @@ export const data = {
     },
     {
       "level": 3,
+      "title": "新建文档",
+      "slug": "新建文档",
+      "children": []
+    },
+    {
+      "level": 3,
       "title": "提交方法",
       "slug": "提交方法",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1650433001000,
+    "updatedTime": 1654369067000,
     "contributors": [
       {
         "name": "XiaoMouz",
         "email": "1114096791@qq.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   },

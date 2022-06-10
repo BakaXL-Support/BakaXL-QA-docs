@@ -4,6 +4,8 @@
 <p><img src="@source/maindocs/assets/imgs/directory.png" alt="目录截图"></p>
 </blockquote>
 <h2 id="常见-bakaxl-问题一览" tabindex="-1"><a class="header-anchor" href="#常见-bakaxl-问题一览" aria-hidden="true">#</a> 常见 BakaXL 问题一览</h2>
+<h3 id="bakaxl常见错误代码" tabindex="-1"><a class="header-anchor" href="#bakaxl常见错误代码" aria-hidden="true">#</a> BakaXL常见错误代码</h3>
+<p>见 <RouterLink to="/maindocs/.%5Cerror_code.html">BakaXL常见错误代码</RouterLink> 一文</p>
 <h3 id="如何切换-minecraft-核心" tabindex="-1"><a class="header-anchor" href="#如何切换-minecraft-核心" aria-hidden="true">#</a> 如何切换 Minecraft 核心</h3>
 <p>点击 <code v-pre>启动游戏</code>按钮旁边的 <code v-pre>切换核心图标</code>，或向右拖拽「启动游戏」按钮</p>
 <p><img src="@source/maindocs/assets/imgs/startUp.gif" alt="切换启动核心"></p>
@@ -21,9 +23,9 @@
 <blockquote>
 <p>在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。</p>
 </blockquote>
-<p><img src="@source/maindocs/assets/imgs/Resolve_Minecraft_online_issues.png" alt="检查Minecraft是否启动局域网联机"></p>
-<p><img src="@source/maindocs/assets/imgs/Solve_Bakaxl_online_problems(1).png" alt=""></p>
-<p><img src="assets/imgs/Solve_Bakaxl_online_problems(2).png" alt=""></p>
+<p><img src="@source/maindocs/assets/imgs/resolveMinecraftOnlineIssues.png" alt="检查Minecraft是否启动局域网联机"></p>
+<p><img src="@source/maindocs/assets/imgs/solveBakaXLOnlineProblems-1.png" alt=""></p>
+<p><img src="@source/maindocs/assets/imgs/solveBakaXLOnlineProblems-2.png" alt=""></p>
 <blockquote>
 <p>如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 <code v-pre>Javapath</code> 字样。若有，请卸载更换其他 Java/JDK</p>
 </blockquote>
@@ -49,35 +51,58 @@
 <li>选择您的正版档案。</li>
 <li>确保 <code v-pre>使用此正版档案时加入皮肤妙享网络</code>为 <code v-pre>开</code></li>
 </ol>
-<blockquote>
-<p>当启用 <code v-pre>此正版档案时加入皮肤妙享网络</code> 时，你将无法进入开启了正版验证的服务器。</p>
-</blockquote>
 <h3 id="如何更新到最新预览版-bakaxl" tabindex="-1"><a class="header-anchor" href="#如何更新到最新预览版-bakaxl" aria-hidden="true">#</a> 如何更新到最新预览版 BakaXL</h3>
 <blockquote>
 <p>由于 BakaXL 更新周期机制，正式版的 Bug 很有可能比预览版的 Bug 还多(特性)</p>
 </blockquote>
 <p>打开 <code v-pre>本体设置</code> 选择 <code v-pre>BakaXL 预览体验计划</code>来更改更新通道，我们通常推荐使用鹦鹉通道，因为大部分Bug会被及时修复</p>
 <p><img src="@source/maindocs/assets/imgs/setParrotUpdate.png" alt="setParrot"></p>
+<h3 id="进入笨蛋广场提示-bakaxl笨蛋广场目前仍在施工-当前尚未支持资源下载" tabindex="-1"><a class="header-anchor" href="#进入笨蛋广场提示-bakaxl笨蛋广场目前仍在施工-当前尚未支持资源下载" aria-hidden="true">#</a> 进入笨蛋广场提示“BakaXL笨蛋广场目前仍在施工，当前尚未支持资源下载”</h3>
+<p>请更新至最新预览版BakaXL，详细操作<a href="#%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E5%88%B0%E6%9C%80%E6%96%B0%E9%A2%84%E8%A7%88%E7%89%88BakaX">在这里</a></p>
 <h2 id="游戏问题一览" tabindex="-1"><a class="header-anchor" href="#游戏问题一览" aria-hidden="true">#</a> 游戏问题一览</h2>
-<h3 id="我使用bakaxl启动其他启动器所安装的游戏版本-其mod未加载" tabindex="-1"><a class="header-anchor" href="#我使用bakaxl启动其他启动器所安装的游戏版本-其mod未加载" aria-hidden="true">#</a> 我使用BakaXL启动其他启动器所安装的游戏版本，其mod未加载</h3>
-<p>这通常是因为您先前所使用的启动器未打开<RouterLink to="/maindocs/about_version_seperation.html" title="关于版本隔离">版本隔离</RouterLink>导致的</p>
+<h3 id="我使用bakaxl启动其他启动器所安装的游戏版本-但mod、资源包、光影未加载-存档消失了" tabindex="-1"><a class="header-anchor" href="#我使用bakaxl启动其他启动器所安装的游戏版本-但mod、资源包、光影未加载-存档消失了" aria-hidden="true">#</a> 我使用BakaXL启动其他启动器所安装的游戏版本，但mod、资源包、光影未加载/存档消失了</h3>
+<p>这通常是因为您先前所使用的启动器<strong>未打开</strong><RouterLink to="/maindocs/about_version_seperation.html" title="关于版本隔离"><strong>版本隔离</strong></RouterLink>导致的</p>
 <p>为避免新手存在<strong>无法同时安装多个含加载器的版本</strong>的问题，BakaXL默认且<strong>锁定</strong>为开启版本隔离</p>
-<p>若存在mod/资源包/光影/存档/数据包等不加载的情况</p>
+<p>若存在 mod/资源包/光影/存档/数据包 等不加载的情况</p>
 <ol>
-<li>请使用BakaXL<RouterLink to="/maindocs/BakaXL_Use_Docs.html#%E6%B7%BB%E5%8A%A0%E5%B7%B2%E6%8B%A5%E6%9C%89%E7%9A%84-minecraft-%E6%A0%B8%E5%BF%83-%E6%88%96-%E6%95%B4%E5%90%88%E5%8C%85">安装含对应mod加载器的版本</RouterLink>（精确到加载器版本号）</li>
-<li>将 <em>.minecraft</em> 目录下 <em>saves</em>（游戏存档），<em>mods</em>（模组），<em>resources</em>（资源包），<em>shaderpacks</em>（光影包）文件夹移动至 <em>.minecraft/versions/&lt;对应版本&gt;</em> 文件夹中</li>
+<li>请使用 BakaX L<RouterLink to="/maindocs/BakaXL_Use_Docs.html#%E6%B7%BB%E5%8A%A0%E5%B7%B2%E6%8B%A5%E6%9C%89%E7%9A%84-minecraft-%E6%A0%B8%E5%BF%83-%E6%88%96-%E6%95%B4%E5%90%88%E5%8C%85">安装含对应mod加载器的版本</RouterLink>（精确到加载器版本号）</li>
+<li>将 <em><code v-pre>.minecraft</code></em> 目录下 <em><code v-pre>saves</code></em>（游戏存档），<em><code v-pre>mods</code></em>（模组），<em><code v-pre>resources</code></em>（资源包），<em><code v-pre>shaderpacks</code></em>（光影包）文件夹移动至 <em><code v-pre>.minecraft/versions/(对应版本的文件夹名称)</code></em> 文件夹中</li>
 <li>重新启动该版本</li>
 </ol>
 <p>若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。</p>
-<p><RouterLink to="/maindocs/about_version_seperation.html" title="关于版本隔离">关于版本隔离</RouterLink></p>
+<p><RouterLink to="/maindocs/About_Version_Seperation.html" title="关于版本隔离">关于版本隔离</RouterLink></p>
+<blockquote>
+<p>若您使用<code v-pre>Fabric</code>作为模组加载器，请安装<code v-pre>Mod Menu</code>模组，否则将不会在游戏内显示<code v-pre>Mod</code>按钮</p>
+</blockquote>
 <h3 id="我使用bakaxl打开其他启动器所使用的-minecraft文件夹-却显示没有可用核心" tabindex="-1"><a class="header-anchor" href="#我使用bakaxl打开其他启动器所使用的-minecraft文件夹-却显示没有可用核心" aria-hidden="true">#</a> 我使用BakaXL打开其他启动器所使用的.minecraft文件夹，却显示没有可用核心</h3>
 <p>解决方法同上问</p>
 <h3 id="启动游戏时卡死了" tabindex="-1"><a class="header-anchor" href="#启动游戏时卡死了" aria-hidden="true">#</a> 启动游戏时卡死了</h3>
 <p>前往 <code v-pre>本体设置</code>-<code v-pre>Java 虚拟机与内存</code>，下翻到 <code v-pre>内存设置</code>，可以自行设置， 但 BakaXL 推荐您打开 <code v-pre>自动设置内存</code></p>
 <p><img src="@source/maindocs/assets/imgs/setGameMemory.png" alt="setGameMemory"></p>
 <h3 id="minecraft-游戏崩溃了" tabindex="-1"><a class="header-anchor" href="#minecraft-游戏崩溃了" aria-hidden="true">#</a> Minecraft 游戏崩溃了</h3>
-<p>若您的游戏版本是 Minecraft 1.8 - 1.16.5，请参考此篇文档。</p>
+<h4 id="若您的版本是-minecraft-1-17-及以上" tabindex="-1"><a class="header-anchor" href="#若您的版本是-minecraft-1-17-及以上" aria-hidden="true">#</a> 若您的版本是 Minecraft 1.17 及以上</h4>
+<p>请确保使用了<a href="https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi" target="_blank" rel="noopener noreferrer">Java17<ExternalLinkIcon/></a>及以上（推荐使用<a href="https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi" target="_blank" rel="noopener noreferrer">Java17<ExternalLinkIcon/></a>）</p>
+<h4 id="若您的游戏版本是-minecraft-1-8-1-16-5" tabindex="-1"><a class="header-anchor" href="#若您的游戏版本是-minecraft-1-8-1-16-5" aria-hidden="true">#</a> 若您的游戏版本是 Minecraft 1.8 - 1.16.5</h4>
+<p>请参考此篇文档</p>
 <p><RouterLink to="/maindocs/Minecraft_1.8-1.16.5_CRQA.html">Minecraft 1.8 - 1.16.5 崩溃如何处理？</RouterLink></p>
+<h4 id="若您的版本是-minecraft-1-7-10" tabindex="-1"><a class="header-anchor" href="#若您的版本是-minecraft-1-7-10" aria-hidden="true">#</a> 若您的版本是 Minecraft 1.7.10</h4>
+<p>在此版本使用正版账户登录也许会出现一些意想不到的问题，若您没有特殊需求建议选择离线账户登录</p>
+<h4 id="全版本通性" tabindex="-1"><a class="header-anchor" href="#全版本通性" aria-hidden="true">#</a> 全版本通性</h4>
+<ol>
+<li>.minecraft目录中存在中文字符</li>
+</ol>
+<blockquote>
+<p>为了解决问题同时不影响该目录下其他应用程序的日常使用</p>
+<p>请将 <kbd><em>BakaXL.exe</em></kbd>，<kbd><em>BakaXL</em> 文件夹</kbd>，<kbd><em>.minecraft</em> 文件夹</kbd></p>
+<p>移动至不含有中文字符的同一目录下</p>
+</blockquote>
+<ol>
+<li>mod 冲突/存在不适配的mod/缺少前置mod</li>
+</ol>
+<blockquote>
+<p>请参考此篇文档</p>
+<p><RouterLink to="/maindocs/Minecraft_1.8-1.16.5_CRQA.md/#mod-%E5%86%B2%E7%AA%81">Mod 冲突</RouterLink></p>
+</blockquote>
 <h3 id="在-minecraft-「多人游戏」里无法显示大厅房间" tabindex="-1"><a class="header-anchor" href="#在-minecraft-「多人游戏」里无法显示大厅房间" aria-hidden="true">#</a> 在 Minecraft 「多人游戏」里无法显示大厅房间</h3>
 <blockquote>
 <p>您可能需要以管理员身份运行 BakaXL
@@ -133,7 +158,7 @@
 <p>由于微软一贯网络尿性，国外用户甚至也时常抱怨微软网络问题，因此不保证此方法能够让您成功登录您的正版账户</p>
 </blockquote>
 <h3 id="在联机时bakaxl显示仅使用ipv4" tabindex="-1"><a class="header-anchor" href="#在联机时bakaxl显示仅使用ipv4" aria-hidden="true">#</a> 在联机时BakaXL显示仅使用IPv4</h3>
-<p>请致电互联网服务提供商（电信 10000 / 联通 10010 / 移动 10086 ）要求上门调试 IPv6 <del>，若出现拒不调试的情况可以拨打工信部电话 12300 投诉 </del></p>
+<p>请致电互联网服务提供商（电信 10000 / 联通 10010 / 移动 10086 ）要求上门调试 IPv6 ~~，若出现拒不调试的情况可以拨打工信部电话 12300 投诉 ~~</p>
 <h2 id="若此文档未能解决您的问题" tabindex="-1"><a class="header-anchor" href="#若此文档未能解决您的问题" aria-hidden="true">#</a> 若此文档未能解决您的问题</h2>
 <ul>
 <li>在BakaXL用户群求助，QQ群: <a href="https://jq.qq.com/?_wv=1027&amp;k=3WQFYmP1" target="_blank" rel="noopener noreferrer">480455628<ExternalLinkIcon/></a></li>

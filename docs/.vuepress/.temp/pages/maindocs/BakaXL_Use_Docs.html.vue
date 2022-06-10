@@ -7,6 +7,7 @@
 <blockquote>
 <p>当然，您也可以使用LTS版本（2.2.8.6），使用时出现的问题依旧会上报但由于开发人员缺失原因将不会得到解决。</p>
 </blockquote>
+<p><span id="download"></span></p>
 <h2 id="下载" tabindex="-1"><a class="header-anchor" href="#下载" aria-hidden="true">#</a> 下载</h2>
 <p>您可以随时在 BakaXL 官网下载最新版本的 BakaXL：</p>
 <p><a href="https://www.bakaxl.com" target="_blank" rel="noopener noreferrer">&gt;&gt;BakaXL官网<ExternalLinkIcon/></a></p>
@@ -24,7 +25,7 @@
 <p>我们推荐您安装 BakaXL 之后调整为「Parrot 鹦鹉通道」更新通道，您可以在此通道内体验最新版本的 BakaXL ，包括很多功能性更新，但可能会有未完成和未清理的功能。</p>
 <p>找到<code v-pre>本体设置</code> &gt; <code v-pre>BakaXL预览计划</code> &gt;<code v-pre>切换为 Parrot 鹦鹉通道</code> &gt;<code v-pre>点击变更</code></p>
 <p><img src="@source/maindocs/assets/userdocs/switchToParrotProxy.gif" alt="设置鹦鹉通道"></p>
-<p>这样您就﻿可以随时更新到 BakaXL 的最新版本啦！</p>
+<p>这样您就可以随时更新到 BakaXL 的最新版本啦！</p>
 <p>如果因某些原因，BakaXL 无法自动更新或无限更新失败，您也可以随时在 <a href="http://jk-insider.bakaxl.com:8888/job/BakaXL%20Insider%20Parrot/" target="_blank" rel="noopener noreferrer">Jenkins<ExternalLinkIcon/></a> 下载最后一次构建的结果。</p>
 <h2 id="更新" tabindex="-1"><a class="header-anchor" href="#更新" aria-hidden="true">#</a> 更新</h2>
 <p>当您连接至互联网时，BakaXL 会自动检查可用更新。在有可用更新的情况下，您必须更新才能继续使用 BakaXL。</p>
@@ -113,8 +114,7 @@
 <p>这意味着只要多人游戏的玩家使用BakaXL作为启动器并开启本功能时，就可互相看到对方的皮肤而无需其他mod或插件。</p>
 <p>只需要在<code v-pre>「本体设置」</code>- <code v-pre>「账户与档案」</code> 点击你的离线档案，设置皮肤</p>
 <p>之后前往<code v-pre>「领域/联机大厅」</code>-<code v-pre>「用户设置」</code>，确保<code v-pre>「BakaXL Network SkinShare 皮肤妙享」</code>为开启状态</p>
-<p>注：请尽量<RouterLink to="/maindocs/maindocs.html#%E5%9C%A8-bakaxl-%E5%A4%A7%E5%8E%85%E8%81%94%E6%9C%BA%E4%B8%AD%E7%8E%A9%E5%AE%B6%E4%B9%8B%E9%97%B4%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E5%AF%B9%E6%96%B9%E7%9A%84%E7%9A%AE%E8%82%A4">在离线登录下使用此功能</RouterLink></p>
 <blockquote>
-<p>如果﻿您阅读了此使用手册和<RouterLink to="/maindocs/maindocs.html">帮助文档</RouterLink>后仍未解决您的问题，可以在BakaXL Outsider QQ群（480455628）来寻求帮助。</p>
+<p>如果您阅读了此使用手册和<RouterLink to="/maindocs/maindocs.html">帮助文档</RouterLink>后仍未解决您的问题，可以在BakaXL Outsider QQ群（480455628）来寻求帮助。</p>
 </blockquote>
 </div></template>

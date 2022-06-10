@@ -1,7 +1,7 @@
 export const themeData = {
   "logo": "/favicon.png",
   "sidebar": "auto",
-  "nav": [
+  "navbar": [
     {
       "text": "主页",
       "link": "/"
@@ -18,8 +18,12 @@ export const themeData = {
       "text": "相关文档",
       "children": [
         {
-          "text": "1.8-1.16.5 版本常见问题",
-          "link": "/maindocs/Minecraft_1.8-1.16.5_CRQA/"
+          "text": "游戏常见问题",
+          "link": "/maindocs/Minecraft_CRQA/"
+        },
+        {
+          "text": "关于版本隔离",
+          "link": "/maindocs/About_Version_Seperation/"
         },
         {
           "text": "BakaXL 文档编写规则",
@@ -50,7 +54,6 @@ export const themeData = {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
   "darkMode": true,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",

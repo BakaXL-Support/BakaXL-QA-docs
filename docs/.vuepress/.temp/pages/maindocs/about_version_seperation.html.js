@@ -1,6 +1,6 @@
 export const data = {
-  "key": "v-61bd7594",
-  "path": "/maindocs/about_version_seperation.html",
+  "key": "v-93bf1598",
+  "path": "/maindocs/About_Version_Seperation.html",
   "title": "有关版本隔离",
   "lang": "zh-CN",
   "frontmatter": {},
@@ -27,16 +27,16 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1653705943000,
+    "updatedTime": 1654369067000,
     "contributors": [
       {
-        "name": "Missdrop",
-        "email": "3244982514@qq.com",
+        "name": "XiaoMouz",
+        "email": "1114096791@qq.com",
         "commits": 1
       }
     ]
   },
-  "filePathRelative": "maindocs/about_version_seperation.md"
+  "filePathRelative": "maindocs/About_Version_Seperation.md"
 }
 
 if (import.meta.webpackHot) {
