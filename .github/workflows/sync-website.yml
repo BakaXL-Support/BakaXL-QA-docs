@@ -6,7 +6,8 @@ on:
     paths-ignore: 
       - README.md
       - LICENSE
-      - .github/
+      - .github/*
+      - .gitattributes
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
