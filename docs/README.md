@@ -9,6 +9,9 @@ actions:
   - text: 立刻查看 →
     link: /maindocs/BakaXL_Use_Docs.md
     type: primary
+  - text: 联机超时汇报
+    link: /Feedback_TimeOut_Case.md
+    type: secondary
 features:
   - title: 专为用户优化
     details: 作为用户的我们，我们明白一位用户需要什么，我们也希望为每一位新人用户解决问题，安心游戏
