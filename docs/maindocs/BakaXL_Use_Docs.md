@@ -134,11 +134,17 @@
 
 注意：您可能需要先确保下载源设置最优。前往 `本体设置` >`下载`  >`中国大陆下载源加速` 设置为 `开`，而后镜像服务器选择 `传统`  ，线程数建议设置为 `512 个/不重连`
 
-
+## 从 BakaXL 主界面安装
 
 单击主界面的「C+」 按钮，选择游戏版本，添加 Mod 加载器、OptiFine（可选），开始安装。
 
 ![安装新Minecraft核心](./assets/userdocs/installNewGameCore.gif)
+
+## 从 BakaXL 笨蛋广场安装
+
+单击笨蛋广场主界面的「Minecraft 本体下载」按钮，选择游戏版本，添加 Mod 加载器、OptiFine（可选），开始安装。
+
+![从笨蛋广场安装新Minecraft核心](./assets/userdocs/installNewGameCoreFromBakaPlaza.gif)
 
 
 
