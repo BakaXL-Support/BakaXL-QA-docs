@@ -124,7 +124,18 @@
 
 #### 全版本通性
 
-1. .minecraft目录中存在中文字符
+::: warning
+在系统使用Unicode UTF-8的情况下使用中文目录存储/启动游戏必定会导致游戏崩溃
+
+关于如何找到Unicode选项请参照: [将Windows10设置为UTF8编码格式 - CSDN](https://blog.csdn.net/xt_v2012/article/details/93784751)
+将选项`Beta版:使用Unicode UTF-8提供全球语言支持(U)`旁的复选框取消勾选后重新启动即可关闭Unicode UTF-8模式
+
+
+若出现重启后检查依旧仍在使用Unicode UTF-8模式请参考: 
+[地區設定 勾選 “Bate版：使用Unicode UTF-8提供全球語言支援" 後重開機依舊無法更改回來 - Microsoft Q&A](https://answers.microsoft.com/zh-hant/windows/forum/all/%E5%9C%B0%E5%8D%80%E8%A8%AD%E5%AE%9A/e596c312-1eda-41c2-a85e-f41a1f5ced9e) 一文中独立顾问`A Big 蓝鲸`提供的方法
+:::
+
+1. .minecraft目录中存在中文字符有可能导致游戏崩溃，如果发生了崩溃情况请尝试移出中文路径
 
 >为了解决问题同时不影响该目录下其他应用程序的日常使用
 >
