@@ -132,7 +132,7 @@
 
 
 若出现重启后检查依旧仍在使用Unicode UTF-8模式请参考: 
-[地區設定 勾選 “Bate版：使用Unicode UTF-8提供全球語言支援" 後重開機依舊無法更改回來 - Microsoft Q&A](https://answers.microsoft.com/zh-hant/windows/forum/all/%E5%9C%B0%E5%8D%80%E8%A8%AD%E5%AE%9A/e596c312-1eda-41c2-a85e-f41a1f5ced9e) 一文中独立顾问`A Big 蓝鲸`提供的方法
+[地區設定 勾選 “Bate版：使用Unicode UTF-8提供全球語言支援” 後重開機依舊無法更改回來 - Microsoft Q&A](https://answers.microsoft.com/zh-hant/windows/forum/all/%E5%9C%B0%E5%8D%80%E8%A8%AD%E5%AE%9A/e596c312-1eda-41c2-a85e-f41a1f5ced9e) 一文中独立顾问`A Big 蓝鲸`提供的方法
 :::
 
 1. .minecraft目录中存在中文字符有可能导致游戏崩溃，如果发生了崩溃情况请尝试移出中文路径
@@ -200,9 +200,9 @@ io.netty 错误有很多，但是以buffer导致的连接失败只有一个，�
 在出现这类错误时请您提交一份 Mod 包给 BakaXL 开发团队以便找到不支持的 Mod
 :::
 
-这类问题的出现并非由于 BakaXL 导致的，而是由于 Mod 本身不支持 SSP Lan (即局域网广播)，来自 Mod 的缺陷只能依靠 Mod 开发者解决或转用其它方法联机
-并且如果 Mod 不支持 SSP Lan 那么无论使用什么启动器只要使用的是 SSP Lan 方案便无法进行联机，如果一定要使用这些 Mod 建议转用其它多人游玩方案进行联机
-目前已测试以下 Mod 的部分版本不支持 SSP Lan :
+这类问题的出现并非由于 BakaXL 导致的，而是由于 Mod 本身不支持 SSP LAN (即局域网广播)，来自 Mod 的缺陷只能依靠 Mod 开发者解决或转用其它方法联机
+并且如果 Mod 不支持 SSP LAN 那么无论使用什么启动器只要使用的是 SSP LAN 方案便无法进行联机，如果一定要使用这些 Mod 建议转用其它多人游玩方案进行联机
+目前已测试以下 Mod 的部分版本不支持 SSP LAN :
 - 暮色森林
 - 豆腐工艺
 - FTB基础库
