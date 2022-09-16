@@ -10,7 +10,11 @@
 
 [>>下载 Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)
 
+若您使用的是来源不明或者硬盘厂商/笔记本厂商自带的 Windows 系统有可能没有安装 .Net Framkework 4.5，当然不排除您自装的系统没有自带.Net，您可以尝试安装一下 .Net Framework 4.5
 
+[>>下载 .Net Framework 4.5](https://www.microsoft.com/zh-CN/download/confirmation.aspx?id=30653)
+
+> .Net Framework 4.5 是微软发布的一套程序框架，安装它也能避免您遇到一些程序无法启动的问题，并且也不会对您的计算机造成损伤或延缓运行速度，因为它本应就存在您的系统中
 
 > 当然，您也可以使用LTS版本（2.2.8.6），使用时出现的问题依旧会上报但由于开发人员缺失原因将不会得到解决。
 
