@@ -172,7 +172,7 @@ BakaXL 支持通过笨蛋广场来安装 Fabirc Mod 、Forge Mod 等众多加载
 
 ## 添加已拥有的 Minecraft 核心 或 整合包
 
-BakaXL支持通过安装 MCBBS(仅限v2版本) 整合包和 CurseForge 整合包来安装 Minecraft 整合包。
+BakaXL支持使用 MCBBS (仅限v2版本) / Modrinth / CurseForge 格式 来安装 Minecraft 整合包。
 
 
 
@@ -184,15 +184,15 @@ BakaXL支持通过安装 MCBBS(仅限v2版本) 整合包和 CurseForge 整合包
 
 >**注意**
 >
->最新版BakaXL仅支持了最新的MCBBS整合包规范安装（也就是v2.0）。
+>最新版 BakaXL 仅支持了最新的 MCBBS 整合包规范安装（也就是v2.0）。
 >
->BakaXL将不再支持2021年8月18日之前通过HMCL等其它启动器导出的旧版MCBBS格式整合包。
+>BakaXL 将不再支持 2021 年 8 月 18 日之前通过 HMCL 等其它启动器导出的旧版 MCBBS 格式整合包。
 
 
 
 ## 开始游戏
 
-当您已经安装好了Minecraft核心，您可以在主界面向右拖动 `启动游戏` 按钮来选择游戏核心：
+当您已经安装好了 Minecraft 核心，您可以在主界面向右拖动 `启动游戏` 按钮来选择游戏核心：
 
 ![选择Minecraft核心](./assets/userdocs/selectMinecraftCore.gif)
 
@@ -200,9 +200,9 @@ BakaXL支持通过安装 MCBBS(仅限v2版本) 整合包和 CurseForge 整合包
 
 
 
-## 使用.BakaSkin文件来个性化您的BakaXL(主题包)
+## 使用 .BakaSkin 文件来个性化您的 BakaXL (主题包)
 
-转到`本体设置`  >`个性化`，翻到底部点击 `打开皮肤文件夹`  按钮，将在外部获取到的 .BakaSkin 文件复制进文件夹内，之后再在BakaXL内即可查看皮肤列表。
+转到`本体设置`  >`个性化`，翻到底部点击 `打开皮肤文件夹`  按钮，将在外部获取到的 .BakaSkin 文件复制进文件夹内，之后再在 BakaXL 内即可查看皮肤列表。
 
 
 
@@ -250,7 +250,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 [>>>BakaXL隐私政策](https://www.bakaxl.com/Privacy/Policy/)
 
-加入大厅之后，前往「多人游戏」，该大厅将会自动显示在列表里。若您无法加入游玩，BakaXL将会在大厅的玩家列表内显示您的状态，而BakaXL本次的运行日志也是未来诊断问题所在的手段。
+加入大厅之后，前往「多人游戏」，该大厅将会自动显示在列表里。若您无法加入游玩，BakaXL 将会在大厅的玩家列表内显示您的状态，而 BakaXL 本次的运行日志也是未来诊断问题所在的手段。
 
 
 
@@ -261,6 +261,8 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 这意味着只要多人游戏的玩家使用BakaXL作为启动器并开启本功能时，就可互相看到对方的皮肤而无需其他mod或插件。
 
 只需要在`「本体设置」`- `「账户与档案」` 点击你的离线档案，设置皮肤
+
+>  正版档案需要前往 `「本体设置」`- `「账户与档案」` 点击正版档案，打开 `「加入 BakaXL 皮肤妙享网络」`
 
 之后前往`「领域/联机大厅」`-`「用户设置」`，确保`「BakaXL Network SkinShare 皮肤妙享」`为开启状态
 
