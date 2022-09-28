@@ -255,7 +255,11 @@ io.netty 错误有很多，但是以 buffer 导致的连接失败只有一个，
 
 BakaXL 大厅本身并不限制游戏人数，该限制来自 Minecraft 本身。
 
-请添加名为 LAN World Plug-n-Play (mcWiFiPnP) 的 Mod 到您的核心（确保安装了对应的 Mod 加载器），然后在局域网开放界面设置游戏人数。
+请添加名为 `LAN World Plug-n-Play (mcWiFiPnP)` 的 Mod 到您的核心（确保安装了对应的 Mod 加载器），然后在局域网开放界面设置游戏人数。
+
+您可以通过 BakaXL 笨蛋广场在右上角搜索栏通过 CurseForge 搜索关键词 `LAN World Plug-n-Play` 来快速安装该 Mod，也可以通过该 Mod 的 [Curseforge 页面](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp)下载并手动安装此 Mod
+
+
 
 
 ## 其它问题
