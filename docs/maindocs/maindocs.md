@@ -147,25 +147,26 @@
 
 >请参考此篇文档
 >
->[Mod 冲突](./Minecraft_1.8-1.16.5_CRQA.md/#mod-冲突)
+[>>> Mod 冲突](./Minecraft_1.8-1.16.5_CRQA.md/#mod-冲突)
 
 ## 联机问题一览
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
 > 您可能需要以管理员身份运行 BakaXL
-> 如果没能解决您的问题，请联系开发者 TT702，他目前正在积极收集发生这些情况的人员以解析是什么问题
 
 1. 删除 `C:\Windows\System32\drivers\etc\hosts`
 2. 按下 `Windows`+`X` ，选择 `Windows Powershell (管理员)`或 `命令提示符 (管理员)`或 `Windows 终端 (管理员)`
 3. 在弹出的窗口输入 `netsh winsock reset`，并按下 `Enter`执行
 4. 重新启动您的电脑
 
+> 如果以上方法未能解决您的问题，请联系开发者 TT702，他目前正在积极收集发生这些情况的人员以解析是什么问题
+
 ### 在联机时连接至大厅创建者时出现 `no further information`错误
 
-> 通常出现这种情况是因为房主退出了游戏或者大厅炸了
+- 通常出现这种情况是因为房主退出了游戏或者大厅炸了
 
-如果没有出现上述情况请更改您的 BakaXL 至最新预览版
+> 如果没有出现上述情况请更改您的 BakaXL 至最新预览版
 
 [&gt;&gt;如何更新到最新预览版 BakaXL](#如何更新到最新预览版BakaXL)
 
@@ -173,7 +174,9 @@
 
 > 若未能解决此问题，请在 BakaXL 用户群中求助
 
-> 请检查您在 BakaXL 大厅中的状态，如果显示为 `大厅中/已连接`或 `大厅中/已通过中继连接`请再尝试一次能否加入游戏
+- 请检查您在 BakaXL 大厅中的状态，如果显示为 `大厅中/已连接`或 `大厅中/已通过中继连接`请再尝试一次能否加入游戏
+
+- 若您创建大厅时选择了使用服务器实例来进行联机那么请注意您是否开启了验证，如第三方验证、正版验证会导致没有相应验证资质的玩家无法加入游戏
 
 #### 检查防火墙
 
@@ -255,7 +258,11 @@ io.netty 错误有很多，但是以 buffer 导致的连接失败只有一个，
 
 BakaXL 大厅本身并不限制游戏人数，该限制来自 Minecraft 本身。
 
-请添加名为 LAN World Plug-n-Play (mcWiFiPnP) 的 Mod 到您的核心（确保安装了对应的 Mod 加载器），然后在局域网开放界面设置游戏人数。
+请添加名为 `LAN World Plug-n-Play (mcWiFiPnP)` 的 Mod 到您的核心（确保安装了对应的 Mod 加载器），然后在局域网开放界面设置游戏人数。
+
+您可以通过 BakaXL 笨蛋广场在右上角搜索栏通过 CurseForge 搜索关键词 `LAN World Plug-n-Play` 来快速安装该 Mod，也可以通过该 Mod 的 [Curseforge 页面](https://www.curseforge.com/minecraft/mc-mods/mcwifipnp)下载并手动安装此 Mod
+
+
 
 
 ## 其它问题
