@@ -15,13 +15,11 @@
 ## Java 配置错误
 
 ::: warning
-如果您游玩 1.17 之后的 Minecraft (自21w19a开始) 请务必使用 Java 16 运行游戏。
-
-而当您游玩 1.18 之后的 Minecraft (自1.18-pre2开始) 请务必使用 Java 17 运行游戏。
+如果您游玩 1.17 及之后的 Minecraft (自1.18-pre2开始) 请务必使用 Java 17 运行游戏。
 :::
 
 ::: tip
-当然您也不必过于惊慌，如果您打开了 `自动选择合适的 Java 版本` 功能 BakaXL 会为您自动选择合适的 Java 并且在缺少适合的运行环境时为您自动安装
+当然您也不必过于惊慌，如果您打开了 `自动选择合适的 Java 版本` 功能， BakaXL 会为您自动选择合适的 Java 并且在缺少适合的运行环境时为您自动安装
 
 您也可以手动选择 Java 版本，但是这一般适用于高级用户，当您手动选择 Java 版本时请铭记上方警告。
 :::
@@ -30,7 +28,7 @@
 
 ### 使用 Forge 时
 
-由于 `Forge` 的神奇兼容性，**请使用** Java 8 **来运行你的 Minecraft** (仅限于 1.16.5 及以下版本)，若仍然崩溃，请检查您使用的 Java 版本是否是 `Java 8u321` 。（我们推荐使用：[__Java 8u312__](https://download.bell-sw.com/java/8u312+7/bellsoft-jre8u312+7-windows-amd64-full.msi) 来运行 1.16.5 及以下版本的Minecraft)
+由于 `Forge` 的兼容性问题，**请务必使用与该版本对应的 Java 来运行你的 Minecraft** ，若仍然崩溃，请检查您使用的 Java 版本是否是 `Java 8u321` 或以上。（我们推荐使用：[__Java 8u312__](https://cdn.azul.com/zulu/bin/zulu8.58.0.13-ca-jre8.0.312-win_x64.msi) 来运行 1.16.5 及以下版本的 Minecraft) 
 
 
 
@@ -56,7 +54,7 @@
 笔记本用户通常可以直接跳过此节。
 :::
 
-1. 按下`Win`+`R`调出`运行`窗口；
+1. 按下`Win` + `R`调出`运行`窗口；
 
 2. 在运行窗口中输入`dxdiag` ，并点击`确定` ；
 
@@ -76,13 +74,13 @@
 
 前往 [__AMD 驱动程序与支持__](https://www.amd.com/zh-hans/support) 页面根据您的显卡 / 处理器型号下载最新的驱动程序 。
 
-![amd驱动下载页面](./assets/Minecraft_CRQA/amdDriver.png)
+![AMD 驱动下载页面](./assets/Minecraft_CRQA/amdDriver.png)
 
 ### NVIDIA 显卡
 
 请前往 [__NVIDIA 驱动程序__](https://www.nvidia.cn/geforce/drivers/) 页面根据显卡型号和需要下载最新的显卡驱动。
 
-![Nvidia驱动下载页面](./assets/Minecraft_CRQA/nvidiaDriver.png)
+![NVIDIA 驱动下载页面](./assets/Minecraft_CRQA/nvidiaDriver.png)
 
 ## 分配内存过大 (过小)
 
@@ -90,7 +88,7 @@
 
 2. 点击 `内存设置`；
 
-3. 确保 `自动设置内存`为`开`。
+3. 确保 `自动设置内存` 为 `开`。
 
 ::: warning
 当您选择手动分配内存时请确保分配的内存没有超过您目前可用的最大内存
