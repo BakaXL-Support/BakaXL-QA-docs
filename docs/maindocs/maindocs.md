@@ -68,25 +68,21 @@
 
 ![setParrot](./assets/imgs/setParrotUpdate.png)
 
-### 进入笨蛋广场提示“ BakaXL 笨蛋广场目前仍在施工，当前尚未支持资源下载”
-
-请更新至最新预览版 BakaXL，详细操作[在这里](#如何更新到最新预览版BakaXL)
-
 ## 游戏问题一览
 
-### 我使用 BakaXL 启动其他启动器所安装的游戏版本，但 mod 、资源包、光影未加载/存档消失了
+### 我使用 BakaXL 启动其他启动器所安装的游戏版本，但 Mod 、资源包、光影未加载/存档消失了
 
 这通常是因为您先前所使用的启动器**未打开**[**版本隔离**](./about_version_seperation.md "关于版本隔离")导致的
 
 为避免新手存在**无法同时安装多个含加载器的版本**的问题，BakaXL 默认且**锁定**为开启版本隔离
 
-若存在 mod /资源包/光影/存档/数据包 等不加载的情况
+若存在 Mod / 资源包 / 光影 / 存档 / 数据包 等不加载的情况
 
 1. 请使用 BakaXL [安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）
-2. 将 *`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resources`*（资源包），*`shaderpacks`*（光影包）文件夹移动至 *`.minecraft/versions/(对应版本的文件夹名称)`* 文件夹中
+2. 将 *`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resourcepacks`*（资源包），*`shaderpacks`*（光影包）文件夹移动至 *`.minecraft/versions/(对应版本的文件夹名称)`* 文件夹中
 3. 重新启动该版本
 
-若希望同步版本之间的mod，资源包，光影，存档等，请参考此篇文档。
+若希望同步版本之间的 Mod，资源包，光影，存档等，请参考此篇文档。
 
 [关于版本隔离](./About_Version_Seperation.md "关于版本隔离")
 
