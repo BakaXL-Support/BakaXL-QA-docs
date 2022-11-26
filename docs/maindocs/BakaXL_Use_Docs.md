@@ -76,7 +76,7 @@
 
 
 
->  BakaXL 若出现无限更新的 Bug 情况您可以前往 [Jenkins ](http://jk-insider.bakaxl.com:8888/job/BakaXL%20Insider%20Parrot/)下载最后一次构建的结果来手动更新 BakaXL。
+>  BakaXL 若出现无限更新的 Bug 情况您可以前往 [Jenkins](http://jk-insider.bakaxl.com:8888/job/BakaXL%20Insider%20Parrot/) 下载最后一次构建的结果来手动更新 BakaXL。
 
 
 
@@ -112,17 +112,17 @@
 
 如果您的游戏版本是 1.16 及以前的版本，那么我们推荐使用 Java 8 来运行游戏。
 
-您可以在 `本体设置` >`Java虚拟机与内存` >`获取Java 8` 来获取 Java 8（通过 MCBBS 提供的链接进行下载，这会打开你的下载工具或浏览器）
+您可以在 `本体设置` > `Java虚拟机与内存` > `获取Java 8` 来获取 Java 8 。
 
 
 
 ### 1.17 及之后的 Minecraft
 
-运行 Minecraft 1.17 或更高版本的 Minecraft 需要使用 Java 17.
+运行 Minecraft 1.17 或更高版本的 Minecraft 需要使用 Java 17 。
 
 
 
-您可以在 `本体设置`  >` Java 虚拟机与内存`  >`获取Java 17` 获取。单击该按钮后下载任务会自动开始，BakaXL将会自动下载Java 17至官方启动器目录，但这不需要您安装官方启动器。
+您可以在 `本体设置` > ` Java 虚拟机与内存` > `获取Java 17` 获取。单击该按钮后下载任务会自动开始，BakaXL将会自动下载Java 17至官方启动器目录，但这不需要您安装官方启动器。
 
 
 
@@ -154,9 +154,9 @@
 
 ## 安装 Mod
 
-BakaXL 支持通过笨蛋广场来安装 Fabirc Mod 、Forge Mod 等众多加载器所支持的 Mod。 
+BakaXL 支持通过笨蛋广场来安装众多 Mod。 
 
-您可以前往 `笨蛋广场` 点击右上角的搜索框可进行 Mod 的查找。
+您可以前往 `笨蛋广场` 点击右上角的搜索框可进行 Mod 的查找，亦或是在 BakaXL 主界面点击切换核心按钮，转到核心详细设置，点击 `模组 (Mods)` ，点击 `打开模组文件夹` ，然后将您已经拥有的 Mods 文件添加进去。
 
 >**注意**
 >
@@ -168,7 +168,8 @@ BakaXL 支持通过笨蛋广场来安装 Fabirc Mod 、Forge Mod 等众多加载
 
 点击需要的 Mod 版本（非右方箭头）时选择对应的 Minecraft 核心 进行安装 Mod ，BakaXL 会自动下载并放入 Mod 文件夹内，当点击右方箭头时，您可以自定义 Mod 下载后所保存的位置。
 
-![添加Mod](./assets/userdocs/addModToCore.gif)
+![添加 Mod ](./assets/userdocs/addModToCore.gif)
+
 
 ## 添加已拥有的 Minecraft 核心 或 整合包
 
@@ -178,7 +179,7 @@ BakaXL支持使用 MCBBS (仅限v2版本) / Modrinth / CurseForge 格式 来安�
 
 您可以向右拖拽  `启动游戏` 滑块 >`添加新的 Minecraft 核心 或 整合包` > `导入整合包` 来添加游戏核心
 
-![添加Minecraft核心](./assets/userdocs/addMinecraftCore.gif)
+![添加 Minecraft 核心](./assets/userdocs/addMinecraftCore.gif)
 
 
 
@@ -241,6 +242,8 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 
 ### 大厅 (多人联机)
+
+> 目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。此板块仅作留档。
 
 选择 `大厅` 菜单栏，您可以 创建 / 加入一个大厅。
 
