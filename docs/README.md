@@ -9,8 +9,8 @@ actions:
   - text: 立刻查看 →
     link: /maindocs/BakaXL_Use_Docs.md
     type: primary
-  - text: BakaXL在线更新整合包制作教程
-    link: https://docs.qq.com/doc/DTkNxd2txT0lpYXNF
+  - text: 加入用户群
+    link: https://jq.qq.com/?_wv=1027&k=U1ZY0qbg
     type: secondary
 features:
   - title: 专为用户优化
