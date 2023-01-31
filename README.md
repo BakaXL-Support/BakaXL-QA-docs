@@ -43,7 +43,7 @@
 
 您也可以参考我们的编写规范进行修改
 
-[>> BakaXL 帮助文档写作规范](http://192.168.1.10:8080/maindocs/BakaXL_HelpDocs_WriteRules.html)
+[>> BakaXL 帮助文档写作规范](https://bakaxl.ml/maindocs/BakaXL_HelpDocs_WriteRules.html)
 
 [>> 点击这里立刻 fork 我们的仓库](https://github.com/BakaXL-Support/BakaXL-QA-docs/fork)
 
