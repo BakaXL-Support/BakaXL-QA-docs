@@ -21,5 +21,3 @@ features:
     details: 遇到了从未见过的问题？你可以发起一次讨论或一项提议来得到解答，如果遇到了某个问题的解决方法也可以和大家一起共享
 footer: MIT Licensed | Copyright © 2021-2022 <a href="https://github.com/BakaXL-Support">BakaXL 用户中心</a>
 ---
-
-<!-- 切忌！上方内容会经过机器检查，对上方内容的任何修改都需要在dev分支测试通过后才能推送到main分支，通常情况下也不需要去修改这些内容 -->
