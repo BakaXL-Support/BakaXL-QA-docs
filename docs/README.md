@@ -9,7 +9,7 @@ actions:
   - text: 立刻查看 →
     link: /maindocs/BakaXL_Use_Docs.md
     type: primary
-  - text: 加入用户群（局外人）
+  - text: 加入用户群
     link: https://jq.qq.com/?_wv=1027&k=U1ZY0qbg
     type: secondary
 features:
