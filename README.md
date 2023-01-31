@@ -1,6 +1,6 @@
 # BakaXL 用户帮助文档
 
-[![last update in main](https://img.shields.io/github/last-commit/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/commits/main)  [![issues](https://img.shields.io/github/issues/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues)  [![pullrequest](https://img.shields.io/github/issues-pr/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/pulls)  [![last vuepress CI](https://img.shields.io/github/workflow/status/BakaXL-Support/BakaXL-QA-docs/Push2update-Website)](https://github.com/BakaXL-Support/BakaXL-QA-docs/actions)
+[![last update in main](https://img.shields.io/github/last-commit/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/commits/main)  [![issues](https://img.shields.io/github/issues/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues)  [![pullrequest](https://img.shields.io/github/issues-pr/BakaXL-Support/BakaXL-QA-docs)](https://github.com/BakaXL-Support/BakaXL-QA-docs/pulls)  [![last vuepress CI](https://img.shields.io/github/actions/workflow/status/BakaXL-Support/BakaXL-QA-docs/sync-website.yml)](https://github.com/BakaXL-Support/BakaXL-QA-docs/actions)
 
 **为新一代Minecraft崩坏启动器用户编写的使用文档**
 
@@ -46,11 +46,43 @@
 
 您也可以参考我们的编写规范进行修改
 
-[>>BakaXL帮助文档写作规范](null)
+[>>BakaXL帮助文档写作规范](http://192.168.1.10:8080/maindocs/BakaXL_HelpDocs_WriteRules.html)
 
 
 
-[点击这里立刻fork我们的仓库](https://github.com/BakaXL-Support/BakaXL-QA-docs/fork)
+[>>点击这里立刻fork我们的仓库](https://github.com/BakaXL-Support/BakaXL-QA-docs/fork)
+
+##### 部署/测试帮助
+
+> 运行要求: node
+> 请确保 node 与 npm 已配置在您的计算机环境变量重
+> 诊断方法为在 Powershell 或 CMD 中输入 `node -v` 与 `npm -v` 为您安装的 node 版本号
+
+fork 仓库后您的账户下应该能看到我们的仓库，您可以使用 git 来克隆您的仓库分支
+```bash
+git clone https://github.com/您的用户名/BakaXL-QA-docs
+```
+
+在这里我们推荐使用 yarn 来安装依赖包，因此打开您的终端工具并安装 yarn
+
+```bash
+npm install -g yarn
+```
+
+而后打开您本地的仓库文件夹，在里面打开终端，输入
+
+```bash
+yarn -i
+```
+
+在安装完成后您输入
+
+```bash
+npm run dev
+```
+
+即可在您本地上查看文档，在浏览器中输入 vite 在 Local 行给出的 ip 即可访问您的测试环境
+
 
 That's all,祝您生活愉快
 
