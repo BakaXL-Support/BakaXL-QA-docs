@@ -169,6 +169,8 @@ BakaXL 将不再支持 2021 年 8 月 18 日之前通过 HMCL 等其它启动器
 
 您也可以在 BakaXL 笨蛋广场内浏览心仪的主题并下载，抑或是将你的个性化设置打包为主题并投递到笨蛋广场。
 
+您可以前往 [BakaXL 运营管理平台](https://open.baka.zone/) 来上传您的作品
+
 ## BakaXL Network
 
 BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交操作
