@@ -112,7 +112,7 @@
 
 在此版本使用正版账户登录也许会出现一些意想不到的问题，若您没有特殊需求建议选择离线账户登录。
 
-#### 全版本通性
+#### 全版本游戏通用的崩溃问题
 
 ::: warning 警告
 在系统使用 Unicode UTF-8 的情况下使用中文目录存储/启动游戏必定会导致游戏崩溃。
@@ -137,6 +137,50 @@
 请参考此篇文档：[>>> Mod 冲突](./Minecraft_1.8-1.16.5_CRQA.md/#mod-冲突)
 
 ## 联机问题一览
+
+::: tip
+目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
+敬请期待 Octo 章鱼网络 的推出，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
+此板块仅作留档。
+:::
+
+### 在 BakaXL 大厅里面无法创建大厅
+
+![报错](./assets/imgs/Bakaxl_online_problem.png)
+
+> 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
+
+![检查Minecraft是否启动局域网联机](./assets/imgs/resolveMinecraftOnlineIssues.png)
+
+![](./assets/imgs/solveBakaXLOnlineProblems-1.png)
+
+![](./assets/imgs/solveBakaXLOnlineProblems-2.png)
+
+> 如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请卸载更换其他 Java / JDK
+
+请确保您的 BakaXL 为最新鹦鹉通道预览版
+
+[&gt;&gt;如何更新到最新预览版 BakaXL](#如何更新到最新预览版BakaXL)
+
+### 在 BakaXL 大厅联机中使用离线皮肤
+
+1. 前往 `本体设置`并选择 `账户与档案`
+2. 选择您的离线档案，并 `点击为我的 Minecaft 角色设置离线皮肤`
+
+![enableSkinShare-1](./assets/imgs/enableSkinShare-1.png)
+
+3. 前往 `领域 / 联机大厅`并选择 `用户设置`
+4. 确保 `BakaXL Network SkinShare 皮肤妙享`为 `开`
+
+![setSkninShare-2](./assets/imgs/enableSkinShare-2.png)
+
+### 在 BakaXL 大厅联机中玩家之间无法显示对方的皮肤
+
+> 请让大厅内的正版用户操作
+
+1. 前往 `本体设置`并选择 `账户与档案`
+2. 选择您的正版档案。
+3. 确保 `使用此正版档案时加入皮肤妙享网络`为 `开`
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
