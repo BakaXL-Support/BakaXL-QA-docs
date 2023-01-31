@@ -26,7 +26,7 @@
 
 [>> BakaXL 官网](https://www.bakaxl.com)
 
-> 『由于服务器需要费用，我们希望您可以对 BakaXL 进行[捐助](https://afdian.net/@TT702)，请在捐助时留下您的 BakaXL Account 邮箱。我们将会给您的账号添加赞助者标识以及 Insider 预览体验计划成员标识，并且您将可以进入 Insiders 局内人内部交流群。』
+> 『由于服务器需要费用，我们希望您可以对 BakaXL 进行[捐助](https://afdian.net/@TT702)，请在捐助时留下您的 BakaXL Account 邮箱。BakaXL 开发者将会给您的账号添加赞助者标识以及 Insider 预览体验计划成员标识，并且您将可以进入 Insiders 局内人内部交流群。』
 
 ### 注意
 
@@ -197,7 +197,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 ### 大厅 (多人联机)
 
-::: tip
+::: tip 提示
 目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
 敬请期待 Octo 章鱼网络 的推出，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
 此板块仅作留档。
@@ -234,7 +234,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 4. 创建大厅，将大厅 ID 通过通讯软件发送给您的好友；
 5. 让您的好友登录 BakaXL 账户，加入大厅即可在您 Minecraft 的多人游戏中看到好友的大厅。
 
-::: tip
+::: tip 提示
 加入方无需通过 BakaXL 启动 Minecraft 也可以加入游戏，但是我们依旧希望您使用 BakaXL 启动 / 管理您的游戏核心。
 :::
 
@@ -261,4 +261,4 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 之后前往`「领域/联机大厅」`-`「用户设置」`，确保`「BakaXL Network SkinShare 皮肤妙享」`为开启状态
 
-> 如果您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在 BakaXL Outsider QQ 群（480455628）来寻求帮助。
+> 如果您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在 [BakaXL Outsider QQ 群480455628](https://jq.qq.com/?_wv=1027&k=U1ZY0qbg)来寻求帮助。

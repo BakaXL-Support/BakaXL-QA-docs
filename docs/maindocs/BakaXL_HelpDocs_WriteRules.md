@@ -63,7 +63,7 @@
 - BakaXL 截图请使用**默认窗口大小**，不要随意改变窗口大小；
 - 上传截图前确保图片能够找准重点而不是将重点藏在小角落；
 - 为缩减仓库体积，图片推荐上传至 [pic.onmicrosoft.cn](https://pic.onmicrosoft.cn) 或其他你觉得可信的图床；
-- 请及时在仓库 `Docs-assets`(https://github.com/BakaXL-Support/Docs-assets) 保留一份存档以防未来图床跑路或其它情况
+- 请及时在仓库 `Docs-assets`(https://github.com/BakaXL-Support/Docs-assets) 保留一份存档以防未来图床跑路或其它情况；
 - 相对路径的引用方式请务必使用 `./` 而不是 `/`。使用 `/` 会导致构建时崩溃；
 - 被调用资源名称请使用小驼峰命名法。
 
@@ -80,11 +80,11 @@
 
 > 大驼峰命名法: 所有单词首字母大写。
 
-::: warning
+::: warning 注意
 如果你不知道如何命名，请在群内询问 / 参考其它文件命名方法。
 :::
 
-::: tip
+::: tip 规则之外的情况
 `maindocs.md` 文件属于例外，其中 `assets/img` 便是 `maindocs.md` 的资源文件存放文件夹。
 :::
 
