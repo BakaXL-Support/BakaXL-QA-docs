@@ -243,7 +243,11 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 ### 大厅 (多人联机)
 
-> 目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。此板块仅作留档。
+::: tip
+目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
+敬请期待 Octo 章鱼网络 的推出，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
+此板块仅作留档。
+:::
 
 选择 `大厅` 菜单栏，您可以 创建 / 加入一个大厅。
 
