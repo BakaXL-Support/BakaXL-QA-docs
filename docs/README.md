@@ -9,8 +9,8 @@ actions:
   - text: 立刻查看 →
     link: /maindocs/BakaXL_Use_Docs.md
     type: primary
-  - text: 联机超时汇报
-    link: /Feedback_TimeOut_Case.md
+  - text: BakaXL在线更新整合包制作教程
+    link: https://docs.qq.com/doc/DTkNxd2txT0lpYXNF
     type: secondary
 features:
   - title: 专为用户优化
