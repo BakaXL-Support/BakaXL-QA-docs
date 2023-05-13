@@ -305,5 +305,5 @@ BakaXL 大厅本身并不限制游戏人数，该限制来自 Minecraft 本身�
 >
 > 您通常提前得知道如何正确将信息给予我们。
 
-[《如何正确地请求别人的帮助？》](./subdocs/How_To_Asking_Question.md)
+[《如何正确地请求别人的帮助？》](./How_To_Asking_Question.md)
 
