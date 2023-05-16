@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-    paths-ignore: 
+    paths-ignore:
       - README.md
       - LICENSE
       - .github/*
@@ -24,4 +24,4 @@ jobs:
           BUILD_SCRIPT: yarn && yarn build
           BUILD_DIR: docs/.vuepress/dist/
           COMMIT_MESSAGE: Auto Deploy Success
-          CNAME: help.bakaxl.ml
+          CNAME: help.bakaxl.com
