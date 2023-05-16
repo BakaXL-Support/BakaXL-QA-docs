@@ -8,16 +8,16 @@ module.exports = {
     // sidebar: 'structuring',
     navbar: [
       { text: '主页', link: '/', },
-      { text: '使用文档', link: '/maindocs/BakaXL_Use_Docs/', },
-      { text: '帮助文档', link: '/maindocs/maindocs/', },
+      { text: '使用文档', link: '/maindocs/BakaXL_Use_Docs.html', },
+      { text: '帮助文档', link: '/maindocs/maindocs.html', },
       {
         text: '相关文档',
         children: [
-          { text: '游戏常见问题', link: '/maindocs/Minecraft_CRQA/',},
-          { text: '关于版本隔离', link: '/maindocs/About_Version_Seperation/', },
-          { text: 'BakaXL 文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules/', },
-          { text: '如何提出一个合适的问题', link: '/maindocs/How_To_Asking_Question/', },
-          { text: '在线更新整合包制作', link: '/maindocs/AutoUpdate_Modpack_Tutorial/', },
+          { text: '游戏常见问题', link: '/maindocs/Minecraft_CRQA.html',},
+          { text: '关于版本隔离', link: '/maindocs/About_Version_Seperation.html', },
+          { text: 'BakaXL 文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules.html', },
+          { text: '如何提出一个合适的问题', link: '/maindocs/How_To_Asking_Question.html', },
+          { text: '在线更新整合包制作', link: '/maindocs/AutoUpdate_Modpack_Tutorial.html', },
         ],
       } 
     ], // 顶部栏配置
@@ -43,9 +43,9 @@ module.exports = {
   ],
   plugins: [
     docsearchPlugin({
-      appId: 'null',
-      apiKey: 'null',
-      indexName: 'null',
+      appId: 'C1K54423FN',
+      apiKey: '4e2729b77a46c54e656786da9e7458f5',
+      indexName: 'bakaxl',
       locales: {
         '/': {
           placeholder: '想要搜些什么？',
