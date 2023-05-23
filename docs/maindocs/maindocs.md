@@ -16,51 +16,13 @@
 
 ### 在导入整合包时提示非标准整合包格式
 
-> BakaXL 目前支持 CurseForge 、 MCBBS v2 版本的整合包以及带有启动器的 Minecraft 游戏压缩包。
+> BakaXL 目前支持 CurseForge / Modrinth / MCBBS v2 版本的整合包以及部分带有启动器的 Minecraft 游戏压缩包。
 
 前往 `本体设置` > `BakaXL 预览体验计划`，选择 `鹦鹉通道`，点击 `变更`，等待更新完成后再次尝试安装。
 
-若依旧安装失败您可以前往用户交流群反馈这一情况，当然在我们的 issues 反馈也欢迎。
+若依旧安装失败您可以前往用户交流群反馈这一情况，当然也欢迎在我们的 Issues 反馈。
 
 > 若出现安装无 Mod 的情况请先使用 HMCL 导出再安装：确保使用版本号在 3.5.3 及更新版本的 HMCL 。点击 `版本列表` >`右键要导出的整合包` >`导出整合包` >`我的世界中文论坛标准整合包` 改个名字-一路下一步至导出完成后再将导出的包导入到 BakaXL 即可。
-
-### 在 BakaXL 大厅里面无法创建大厅
-
-![报错](./assets/imgs/Bakaxl_online_problem.png)
-
-> 在创建大厅前，请检查您的 Minecraft 是否打开了局域网联机。
-
-![检查Minecraft是否启动局域网联机](./assets/imgs/resolveMinecraftOnlineIssues.png)
-
-![](./assets/imgs/solveBakaXLOnlineProblems-1.png)
-
-![](./assets/imgs/solveBakaXLOnlineProblems-2.png)
-
-> 如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请卸载更换其他 Java / JDK。
-
-请确保您的 BakaXL 为最新鹦鹉通道预览版。
-
-[&gt;&gt;如何更新到最新预览版 BakaXL](#如何更新到最新预览版BakaXL)
-
-### 在 BakaXL 大厅联机中使用离线皮肤
-
-1. 前往 `本体设置`并选择 `账户与档案`；
-2. 选择您的离线档案，并 `点击为我的 Minecaft 角色设置离线皮肤`；
-
-![enableSkinShare-1](./assets/imgs/enableSkinShare-1.png)
-
-3. 前往 `领域 / 联机大厅`并选择 `用户设置`；
-4. 确保 `BakaXL Network SkinShare 皮肤妙享`为 `开`。
-
-![setSkninShare-2](./assets/imgs/enableSkinShare-2.png)
-
-### 在 BakaXL 大厅联机中玩家之间无法显示对方的皮肤
-
-> 请让大厅内的正版用户操作。
-
-1. 前往 `本体设置`并选择 `账户与档案`；
-2. 选择您的正版档案。；
-3. 确保 `使用此正版档案时加入皮肤妙享网络`为 `开`。
 
 ### 如何更新到最新预览版 BakaXL
 
@@ -118,7 +80,7 @@
 在系统使用 Unicode UTF-8 的情况下使用中文目录存储/启动游戏必定会导致游戏崩溃。
 
 关于如何找到Unicode选项请参照: [将 Windows10 设置为 UTF8 编码格式 - CSDN](https://blog.csdn.net/xt_v2012/article/details/93784751)
-将选项`Beta 版: 使用 Unicode UTF-8 提供全球语言支持 (U)`旁的复选框取消勾选后重新启动即可关闭 Unicode UTF-8 模式
+将选项`Beta 版: 使用 Unicode UTF-8 提供全球语言支持 (U)`旁的复选框取消勾选后重新启动即可关闭 Unicode UTF-8 
 
 若出现重启后检查依旧仍在使用Unicode UTF-8模式请参考: 
 [地區設定 勾選 “Beta 版：使用 Unicode UTF-8 提供全球語言支援” 後重開機依舊無法更改回來 - Microsoft Q&A](https://answers.microsoft.com/zh-hant/windows/forum/all/%E5%9C%B0%E5%8D%80%E8%A8%AD%E5%AE%9A/e596c312-1eda-41c2-a85e-f41a1f5ced9e) 一文中独立顾问 “A Big 蓝鲸” 提供的方法。
