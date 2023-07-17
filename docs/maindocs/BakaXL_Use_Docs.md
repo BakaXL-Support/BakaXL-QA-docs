@@ -40,7 +40,7 @@
 
 `本体设置` >`账户与档案` >`新增一个档案` 来创建新的档案。
 
-![设置游戏档案](https://raw.baka.lihaoyu.cn/images/maindocs/1.gif)
+![设置游戏档案](https://raw-baka.lihaoyu.cn/images/maindocs/1.gif)
 
 ## 安装后事项
 
@@ -48,7 +48,7 @@
 
 找到`本体设置` > `BakaXL 预览体验计划` >`切换为 Parrot 鹦鹉通道` >`点击变更`
 
-![设置鹦鹉通道](https://raw.baka.lihaoyu.cn/images/maindocs/2.gif)
+![设置鹦鹉通道](https://raw-baka.lihaoyu.cn/images/maindocs/2.gif)
 
 这样您就可以随时更新到 BakaXL 的最新版本啦！
 
@@ -70,7 +70,7 @@
 
 如果您之前有安装过 Java，您可以在`本体设置` >`Java 虚拟机与内存` `>Java 高级设置`中以以下三种方式来指定 Java 路径：
 
-![设置自动选择 Java 版本](https://raw.baka.lihaoyu.cn/images/maindocs/3.gif)
+![设置自动选择 Java 版本](https://raw-baka.lihaoyu.cn/images/maindocs/3.gif)
 
 1. 自动寻找 Java 位置；
 
@@ -110,13 +110,13 @@
 
 单击主界面形似 「C+」 的按钮，选择游戏版本，添加 Mod 加载器 (可选) 、OptiFine (可选)，开始安装。
 
-![安装新 Minecraft 核心](https://raw.baka.lihaoyu.cn/images/maindocs/4.gif)
+![安装新 Minecraft 核心](https://raw-baka.lihaoyu.cn/images/maindocs/4.gif)
 
 ### 从 BakaXL 笨蛋广场安装
 
 单击笨蛋广场主界面的「Minecraft 本体下载」按钮，选择游戏版本，添加 Mod 加载器 (可选)、OptiFine (可选)，开始安装。
 
-![从笨蛋广场安装新 Minecraft 核心](https://raw.baka.lihaoyu.cn/images/maindocs/5.gif)
+![从笨蛋广场安装新 Minecraft 核心](https://raw-baka.lihaoyu.cn/images/maindocs/5.gif)
 
 ## 安装 Mod
 
@@ -134,7 +134,7 @@ BakaXL 支持通过笨蛋广场来安装众多 Mod。
 
 点击需要的 Mod 版本（非右方箭头）时选择对应的 Minecraft 核心 进行安装 Mod ，BakaXL 会自动下载并放入 Mod 文件夹内，当点击右方箭头时，您可以自定义 Mod 下载后所保存的位置。
 
-![添加 Mod](https://raw.baka.lihaoyu.cn/images/maindocs/6.gif)
+![添加 Mod](https://raw-baka.lihaoyu.cn/images/maindocs/6.gif)
 
 ## 添加整合包
 
@@ -148,7 +148,7 @@ BakaXL 支持安装 MCBBS / Modrinth / CurseForge / 格式的 Minecraft 整合�
 
 您可以向右拖拽 `启动游戏` 滑块 >`添加新的 Minecraft 核心 或 整合包` > `导入整合包` 来添加游戏核心
 
-![添加 Minecraft 核心](https://raw.baka.lihaoyu.cn/images/maindocs/7.gif)
+![添加 Minecraft 核心](https://raw-baka.lihaoyu.cn/images/maindocs/7.gif)
 
 :::warning 注意
 最新版 BakaXL 仅支持最新的 MCBBS 整合包规范安装（协议版本 v2.0）。
@@ -159,7 +159,7 @@ BakaXL 将不再支持 2021 年 8 月 18 日之前通过 HMCL 等其它启动器
 
 当您已经安装好了 Minecraft 核心，您可以在主界面向右拖动 `启动游戏` 按钮来选择游戏核心：
 
-![选择 Minecraft 核心](https://raw.baka.lihaoyu.cn/images/maindocs/8.gif)
+![选择 Minecraft 核心](https://raw-baka.lihaoyu.cn/images/maindocs/8.gif)
 
 在这之后，点击「启动游戏」按钮，选择一个档案 (若您只有一个档案则不用选择)，在这之后游戏将会自动启动。
 
