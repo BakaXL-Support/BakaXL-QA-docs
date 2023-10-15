@@ -101,9 +101,9 @@
 ## 联机问题一览
 
 ::: tip 提示
-目前 BakaXL 大厅已暂时下线维护（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
-敬请期待 Octo 章鱼网络 的推出，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
-此板块仅作留档。
+目前 BakaXL 大厅已进入测试状态（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
+Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
+以下板块仅供参考
 :::
 
 ### 在 BakaXL 大厅里面无法创建大厅
