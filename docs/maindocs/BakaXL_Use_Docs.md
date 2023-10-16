@@ -179,7 +179,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 前往`本体设置` > `账户与档案` > `登录至现有的 BakaXL 账户` 或 `注册一个新的账户`。
 
-注册新账户请前往 [BakaXL Account Register](https://https://account.baka.zone/register) 进行注册
+注册新账户请前往 [BakaXL Account Register](https://account.baka.zone/register) 进行注册
 
 :::warning 提请注意
 目前 bbs.bakaxl.com 已关停, 正在开发新账户系统，因此无法更改用户名、用户ID、用户头像以及包括好友头像在内等资源暂无法访问，但 BakaXL Network 系统目前仍可用
