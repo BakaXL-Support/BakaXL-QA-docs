@@ -131,8 +131,8 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 
 ![enableSkinShare-1](./assets/imgs/enableSkinShare-1.png)
 
-3. 前往 `领域 / 联机大厅`并选择 `用户设置`
-4. 确保 `BakaXL Network SkinShare 皮肤妙享`为 `开`
+3. 前往 `领域 / 联机大厅` 并选择 `用户设置`
+4. 确保 `BakaXL Network SkinShare 皮肤妙享` 为 `开`
 
 ![setSkninShare-2](./assets/imgs/enableSkinShare-2.png)
 
@@ -140,13 +140,40 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 
 > 请让大厅内的正版用户操作
 
-1. 前往 `本体设置`并选择 `账户与档案`
+1. 前往 `本体设置` 并选择 `账户与档案`
 2. 选择您的正版档案。
-3. 确保 `使用此正版档案时加入皮肤妙享网络`为 `开`
+3. 确保 `使用此正版档案时加入皮肤妙享网络` 为 `开`
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
 > 您可能需要以管理员身份运行 BakaXL
+> 在此之前请先[关闭防火墙](####检查防火墙)
+
+请先检查您的 BakaXL 是否**关闭**了 IPv6 协议栈:
+
+1. 打开 `本体设置` 选择 `高级`
+2. 关闭 `高级启动` 的 `启用 IPv6 协议栈`
+3. 重启 Minecraft 与 BakaXL
+
+如果您在通过其它启动器联机请确保**您和加入者**的高级启动参数中的**JVM参数(头)**包含了 `-Djava.net.preferIPv4Stack=true` 这一参数
+
+在 PCL 2 中添加 JVM 参数:
+
+1. 打开 `版本设置`
+2. 点选 `设置` 选项卡
+3. 在 `高级启动选项` 中的 `JVM参数头` 中加入 `-Djava.net.preferIPv4Stack=true` 后返回
+
+在 HMCL 中加入 JVM 参数:
+
+1. 点击你的游戏版本
+2. 勾选 `启动游戏特定设置` 或 `编辑全局版本设置`
+3. 找到 `高级选项` 点击 `修改高级选项`
+4. 向下滚动找到 `Java 虚拟机参数` 一栏，填入 `-Djava.net.preferIPv4Stack=true` 后返回
+
+::: tips 提示
+以上方法应该能够修复您无法找到多人大厅的情况，请务必[关闭 Windows 防火墙](####检查防火墙)
+若关闭防火墙后执行以上方法仍无法使用可以尝试以下方法
+:::
 
 1. 用记事本打开 `C:\Windows\System32\drivers\etc\hosts` ，删除其中的所有内容并保存；
 2. 按下 `Windows` + `X` ，选择 `Windows Powershell (管理员)` 或 `命令提示符 (管理员)` 或 `Windows 终端 (管理员)`；
