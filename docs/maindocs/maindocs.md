@@ -155,7 +155,7 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 2. 关闭 `高级启动` 的 `启用 IPv6 协议栈`
 3. 重启 Minecraft 与 BakaXL
 
-如果您在通过其它启动器联机请确保**您和加入者**的高级启动参数中的**JVM参数(头)**包含了 `-Djava.net.preferIPv4Stack=true` 这一参数
+如果您在通过其它启动器联机请确保**您和加入者**的高级启动参数中的**JVM参数头**包含了 `-Djava.net.preferIPv4Stack=true` 这一参数
 
 在 PCL 2 中添加 JVM 参数:
 
