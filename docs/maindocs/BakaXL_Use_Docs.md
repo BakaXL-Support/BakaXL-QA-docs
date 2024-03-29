@@ -185,6 +185,12 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 目前 bbs.bakaxl.com 已关停, 正在开发新账户系统，因此无法更改用户名、用户ID、用户头像以及包括好友头像在内等资源暂无法访问，但 BakaXL Network 系统目前仍可用
 :::
 
+若您在登录/注册账户时 **卡在了登录页面无法返回** 如下图 (返回按钮是灰色的点不了)
+
+![LoginPageErr](./assets/Minecraft_CRQA/LoginPageErr.jpg)
+
+那么敬请 **切换至鹦鹉通道进行更新** 以解决该问题
+
 ### 修改账户头像或资料
 
 前往 `领域` > `用户设置`。
