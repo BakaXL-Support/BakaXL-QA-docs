@@ -187,7 +187,9 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 ![LoginPageErr](./assets/Minecraft_CRQA/LoginPageErr.jpg)
 
-那么敬请 **切换至鹦鹉通道进行更新** 以解决该问题
+那么敬请 **切换至鹦鹉通道进行更新** 然后再次尝试登录，并在该页面耐心等待一会以解决该问题
+
+> 也许您可以给予它一定的耐心呢
 
 ### 修改账户头像或资料
 
