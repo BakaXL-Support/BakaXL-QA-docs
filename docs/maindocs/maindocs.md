@@ -8,9 +8,9 @@
 
 ## 常见 BakaXL 问题一览
 
-### 如何切换启动器通道
+### 如何切换启动器更新通道
 
-在您发现您的启动器出现了各种各样的奇怪的报错与错误时，将启动器 **切换至非树懒(Sloth)通道** 是非常重要的一点，也是解决问题的前提
+在您发现您的启动器出现了各种各样的奇怪的报错与错误时，将启动器 **切换至非树獭 (Sloth) 通道** 是非常重要的一点，也是解决问题的前提
 
 切换启动器更新通道的方法如下
 
@@ -41,19 +41,9 @@
 
 若依旧安装失败您可以前往用户交流群反馈这一情况，当然也欢迎在我们的 Issues 反馈。
 
-> 若出现安装无 Mod 的情况请先使用 HMCL 导出再安装：确保使用版本号在 3.5.3 及更新版本的 HMCL 。点击 `版本列表` >`右键要导出的整合包` >`导出整合包` >`我的世界中文论坛标准整合包` 改个名字-一路下一步至导出完成后再将导出的包导入到 BakaXL 即可。
-
-### 如何更新到最新预览版 BakaXL
-
-> 由于 BakaXL 更新周期机制，正式版的 Bug 很有可能比预览版的 Bug 还多(特性)。
-
-打开 `本体设置` 选择 `BakaXL 预览体验计划`来更改更新通道，我们通常推荐使用鹦鹉通道，因为大部分 Bug 会被及时修复。
-
-![setParrot](./assets/imgs/setParrotUpdate.png)
-
 ## 游戏问题一览
 
-### 我使用 BakaXL 启动其他启动器所安装的游戏版本，但 Mod 、资源包、光影未加载/存档消失了
+### 我使用 BakaXL 启动其他启动器所安装的游戏版本，但 Mod 、资源包、光影未加载 / 存档消失了
 
 这通常是因为您先前所使用的启动器**未打开**[**版本隔离**](./about_version_seperation.md "关于版本隔离")导致的。
 
@@ -61,7 +51,7 @@
 
 若存在 Mod / 资源包 / 光影 / 存档 / 数据包 等不加载的情况：
 
-1. 请使用 BakaXL [安装含对应mod加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）；
+1. 请使用 BakaXL [安装含对应 Mod 加载器的版本](./BakaXL_Use_Docs.md#添加已拥有的-minecraft-核心-或-整合包)（精确到加载器版本号）；
 2. 将 *`.minecraft`* 目录下 *`saves`*（游戏存档），*`mods`*（模组），*`resourcepacks`*（资源包），*`shaderpacks`*（光影包）文件夹移动至 *`.minecraft/versions/(对应版本的文件夹名称)`* 文件夹中；
 3. 重新启动该版本。
 
@@ -83,7 +73,7 @@
 
 #### 若您的版本是 Minecraft 1.17 及以上
 
-请确保使用了[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)及以上（推荐使用[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)）。
+请确保使用了 [Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi) 及以上（推荐使用[Java17](https://download.bell-sw.com/java/17.0.3+7/bellsoft-jre17.0.3+7-windows-amd64-full.msi)）。
 
 #### 若您的游戏版本是 Minecraft 1.8 - 1.16.5
 
@@ -96,12 +86,12 @@
 #### 全版本游戏通用的崩溃问题
 
 ::: warning 警告
-在系统使用 Unicode UTF-8 的情况下使用中文目录存储/启动游戏必定会导致游戏崩溃。
+在系统使用 Unicode UTF-8 的情况下使用中文目录存储 / 启动游戏必定会导致游戏崩溃。
 
-关于如何找到Unicode选项请参照: [将 Windows10 设置为 UTF8 编码格式 - CSDN](https://blog.csdn.net/xt_v2012/article/details/93784751)
-将选项`Beta 版: 使用 Unicode UTF-8 提供全球语言支持 (U)`旁的复选框取消勾选后重新启动即可关闭 Unicode UTF-8 
+关于如何找到 Unicode 选项请参照: [将 Windows10 设置为 UTF8 编码格式 - CSDN](https://blog.csdn.net/xt_v2012/article/details/93784751)
+将选项 `Beta 版: 使用 Unicode UTF-8 提供全球语言支持 (U)` 旁的复选框取消勾选后重新启动即可关闭 Unicode UTF-8 
 
-若出现重启后检查依旧仍在使用Unicode UTF-8模式请参考: 
+若出现重启后检查依旧仍在使用 Unicode UTF-8 模式请参考: 
 [地區設定 勾選 “Beta 版：使用 Unicode UTF-8 提供全球語言支援” 後重開機依舊無法更改回來 - Microsoft Q&A](https://answers.microsoft.com/zh-hant/windows/forum/all/%E5%9C%B0%E5%8D%80%E8%A8%AD%E5%AE%9A/e596c312-1eda-41c2-a85e-f41a1f5ced9e) 一文中独立顾问 “A Big 蓝鲸” 提供的方法。
 :::
 
@@ -119,34 +109,33 @@
 
 ## 联机攻略
 
-### 1.开启IPv6
-IPv6是新一代互联网协议，它解决了IPv4地址枯竭的问题。我国目前正在大力发展IPv6，所有宽带和手机运营商均需要提供IPv6地址，部分高校网络也提供了IPv6地址。
+### 1.开启 IPv6
+IPv6 是新一代互联网协议，它解决了 IPv4 地址枯竭的问题。我国目前正在大力发展 IPv6，所有宽带和手机运营商均需要提供 IPv6 地址，部分高校网络也提供了 IPv6 地址。
 
-通过IPv6协议，每个设备都能够拥有属于自己的独立IP地址，也就是说，可以在不经过中继的情况下就实现设备之间的直接互联！
+通过 IPv6 协议，每个设备都能够拥有属于自己的独立 IP 地址，也就是说，可以在不经过中继的情况下就实现设备之间的直接互联！
 
-如果您是家庭宽带，请先尝试开启您的路由器中的IPv6设置。如果启动器大厅内本地网络环境显示 **优先建立IPv6 连接**，就说明您可以正常使用IPv6网络了！
+如果您是家庭宽带，请先尝试开启您的路由器中的 IPv6 设置。如果启动器大厅内本地网络环境显示 **优先建立 IPv6 连接**，就说明您可以正常使用 IPv6 网络了！
 
-注意，通过IPv6联机需要大家**都拥有IPv6地址**才可使用。如果您们当中有人无法开启IPv6，请使用下一种方法。
+注意，通过 IPv6 联机需要大家**都拥有 IPv6 地址**才可使用。如果您们当中有人无法开启 IPv6，请使用下一种方法。
 
 ### 2.使用网游加速器
 ![image](https://contents.baka.zone/web-cdn/image/xunyou.png/logoSize)
 
-使用迅游加速器，即可享受更加高速稳定的联机体验。配合迅游高速组网，让全球玩家都能共同游戏。同时迅游还支持Hypixel加速，畅玩海外知名小游戏服。
+使用 [迅游加速器](https://www.xunyou.com/)，即可享受更加高速稳定的联机体验。配合迅游高速组网，让全球玩家都能共同游戏。同时迅游还支持 Hypixel 加速，畅玩海外知名小游戏服。
 
-使用兑换码：“**BakaXL**”，即可免费领取3天体验资格，并享受85折优惠续费。
+使用兑换码：“**BakaXL**”，即可免费领取 3 天体验资格，并享受 85 折优惠续费。
 
 ### 3.使用BakaXL中继服务
 如果暂时不考虑使用加速器，可以考虑使用BakaXL的中继服务。
 
-在大厅中开启 “**在无法建立直接连接时使用中继连接**”选项，即可使用由赞助商“蓝科数据”提供的可信的免费中继服务。
+在大厅中开启 “**在无法建立直接连接时使用中继连接**” 选项，即可使用由赞助商“蓝科数据”提供的可信的免费中继服务。
 ![image](https://contents.baka.zone/web-cdn/image/relay.png)
 
 ## 联机问题一览
 
 ::: tip 提示
-目前 BakaXL 大厅已进入测试状态（皮肤妙享功能正常），详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
-Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaXL 三启动器互联。
-以下板块可供参考
+目前 BakaXL 大厅正在公开测试，详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
+Octo 章鱼网络 正处于测试阶段，届时将支持 HMCL、PCL 与 BakaXL 三启动器互联。
 :::
 
 ### 在 BakaXL 大厅里面无法创建大厅
@@ -161,21 +150,21 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 
 ![](./assets/imgs/solveBakaXLOnlineProblems-2.png)
 
-> 如果无法创建大厅，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请卸载更换其他 Java / JDK
+首先，请检查您正在使用的的 Java 路径是否存在 `Javapath` 字样。若有，请更换其他 Java。
 
-请确保您的 BakaXL 为最新鹦鹉通道预览版
+同时请确保您的 BakaXL 为最新鹦鹉通道预览版。
 
 [&gt;&gt;如何更新到最新预览版 BakaXL](#如何更新到最新预览版BakaXL)
 
 ### 在 BakaXL 大厅联机中使用离线皮肤
 
 1. 前往 `本体设置`并选择 `账户与档案`
-2. 选择您的离线档案，并 `点击为我的 Minecaft 角色设置离线皮肤`
+2. 选择您的离线档案，并点击 `为我的 Minecaft 角色设置离线皮肤`
 
 ![enableSkinShare-1](./assets/imgs/enableSkinShare-1.png)
 
 3. 前往 `领域 / 联机大厅` 并选择 `用户设置`
-4. 确保 `BakaXL Network SkinShare 皮肤妙享` 为 `开`
+4. 确保 `BakaXL Network SkinShare 皮肤妙享` 设置为 `开`
 
 ![setSkninShare-2](./assets/imgs/enableSkinShare-2.png)
 
@@ -185,7 +174,7 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 
 1. 前往 `本体设置` 并选择 `账户与档案`
 2. 选择您的正版档案。
-3. 确保 `使用此正版档案时加入皮肤妙享网络` 为 `开`
+3. 确保 `使用此正版档案时加入皮肤妙享网络` 设置为 `开`
 
 ### 在 Minecraft 「多人游戏」里无法显示大厅房间
 
@@ -198,9 +187,9 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 2. 关闭 `高级启动` 的 `启用 IPv6 协议栈`
 3. 重启 Minecraft 与 BakaXL
 
-如果您在通过其它启动器联机请确保**您和加入者**的高级启动参数中的**JVM参数头**包含了 `-Djava.net.preferIPv4Stack=true` 这一参数
+如果您的游戏使用其他启动器启动，请确保**您和加入者**的高级启动参数中的 **JVM 参数头**包含了 `-Djava.net.preferIPv4Stack=true` 这一参数
 
-在 PCL 2 中添加 JVM 参数:
+在 PCL2 中添加 JVM 参数:
 
 1. 打开 `版本设置`
 2. 点选 `设置` 选项卡
@@ -214,8 +203,8 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 4. 向下滚动找到 `Java 虚拟机参数` 一栏，填入 `-Djava.net.preferIPv4Stack=true` 后返回
 
 ::: tips 提示
-以上方法应该能够修复您无法找到多人大厅的情况，请务必[关闭 Windows 防火墙](####检查防火墙)
-若关闭防火墙后执行以上方法仍无法使用可以尝试以下方法
+以上方法应该能够修复您无法找到多人大厅的情况，同时请务必[配置 BakaXL 通过 Windows 防火墙](####检查防火墙)
+若配置防火墙后执行以上方法仍无法使用可以尝试以下方法
 :::
 
 1. 用记事本打开 `C:\Windows\System32\drivers\etc\hosts` ，删除其中的所有内容并保存；
@@ -246,7 +235,7 @@ Octo 章鱼网络 正在处于测试阶段，届时将支持 HMCL、PCL与 BakaX
 
 - 请检查您在 BakaXL 大厅中的状态，如果显示为 `大厅中 / 连接已建立`或 `大厅中 / 已通过中继建立连接` ，请使用 `连接助理`。
 
-- 若您创建大厅时选择了使用服务器实例来进行联机那么请注意您是否开启了验证，如第三方验证、正版验证会导致没有相应验证资质的玩家无法加入游戏。
+- 若您创建大厅时选择了使用服务端实例来进行联机那么请注意您是否开启了验证，如第三方验证、正版验证会导致没有相应验证资质的玩家无法加入游戏。
 
 #### 检查防火墙
 
@@ -311,7 +300,7 @@ BakaXL 大厅本身并不限制游戏人数，该限制来自 Minecraft 本身�
 
 请添加名为 `LAN World Plug-n-Play (mcWiFiPnP)` 的 Mod 到您的核心（确保安装了对应的 Mod 加载器），然后在局域网开放界面设置游戏人数。
 
-您可以通过 BakaXL 笨蛋广场在右上角搜索栏通过 CurseForge 搜索关键词 `LAN World Plug-n-Play` 来快速安装该 Mod，也可以通过该 Mod 的 [CurseForge 页面](https://www.CurseForge.com/minecraft/mc-mods/mcwifipnp)下载并手动安装此 Mod
+您可以右键复制 [此链接](https://modrinth.com/mod/mcwifipnp) 并在 BakaXL 主界面按下 Ctrl + V (或 Win + V)，跳转到笨蛋广场来安装该 Mod 以更改最大人数。
 
 #### 方法二
 
@@ -325,8 +314,8 @@ BakaXL 大厅本身并不限制游戏人数，该限制来自 Minecraft 本身�
 
 **解决方法:**
 
-1. 使用加速器，例如 [VK 加速器](https://verykuai.com/)，在 VK 加速器中，加速我的世界 Hypixel 就可 [→加速教程←](https://kingosuper.zyglq.cn/2022/04/25/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8vk%e5%8a%a0%e9%80%9f%e5%99%a8%e5%8a%a0%e9%80%9f%e5%be%ae%e8%bd%af%e7%bd%91%e7%ab%99/)；
-2. 更改 DNS 为 `223.5.5.5` 和 `4.2.2.1`       [更改 DNS 教程(Win10)](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html)  [更改 DNS 教程(Win7)](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)；
+1. 使用网游加速器，如 [迅游加速器](https://www.xunyou.com/)，加速国际版 Minecraft 相关。使用兑换码：“**BakaXL**”，即可免费领取 3 天体验资格，并享受 85 折优惠续费。
+2. 更改 DNS 为 `223.5.5.5` 和 `4.2.2.1`       [更改 DNS 教程 (Win10)](https://jingyan.baidu.com/article/495ba841ff105d79b20ede24.html)  [更改 DNS 教程 (Win7)](https://jingyan.baidu.com/article/cb5d61053c1fd6415c2fe09e.html)；
 3. 使用科学上网方法，启动全局代理模式。
 
 > 由于微软一贯网络尿性，国外用户甚至也时常抱怨微软网络问题，因此不保证此方法能够让您成功登录您的正版账户。

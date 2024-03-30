@@ -4,19 +4,25 @@
 
 ## 开始之前
 
-要运行 BakaXL 3.0 及以上版本，您必须使用 Windows 7 及以上操作系统（由于某些功能需要 Windows 10 或以上才能正常运行，我们推荐您升级至 Windows 10）并安装 .NET Framework 4.8。
+要运行 BakaXL 3.0 及以上版本，您必须使用 Windows 7 及以上操作系统（某些功能需要 Windows 10 或以上才能正常运行，我们推荐您升级至 Windows 10）并安装 .NET Framework 4.6.2 或以上版本。
 
 如果您正在使用 Windows XP 或 Windows Vista 以及更低的 Windows 版本，我们推荐您尽快升级至 Windows 10。
 
 [>> 下载 Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)
 
-若您使用的是来源不明或者硬盘厂商/笔记本厂商自带的 Windows 系统有可能没有安装 .NET Framkework 4.8，当然不排除您自装的系统没有自带 .NET ，您可以尝试安装一下 .NET Framework 4.8
+若您正在使用 Windows 7，.NET Framework 可能并未附带于系统安装。您可以尝试点击下方的链接下载并安装：
 
-[>> 下载 .NET Framework 4.8](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net48-offline-installer)
+[>> 下载 .NET Framework 4.8.1](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/thank-you/net481-offline-installer)
 
-> .NET Framework 4.8 是微软发布的一套程序框架，安装它也能避免您遇到一些程序无法启动的问题，并且也不会对您的计算机造成损伤或延缓运行速度，因为它本应就存在您的系统中
+> .NET Framework 是微软发布的一套程序框架，安装它也能避免您遇到一些程序无法启动的问题，并且也不会对您的计算机造成损伤或延缓运行速度，因为它本应就存在您的系统中
 
 > 当然，您也可以使用 LTS 版本（2.2.8.6），使用时出现的问题依旧会上报但由于开发人员缺失原因将不会得到解决。
+
+::: warning 注意
+如果您正在使用 Windows 8.1 / 10 / 11 并出现启动器无法启动的问题，请尝试使用镜像修复系统，抑或是升级到更高版本的系统。
+
+您也可以前往 [BakaXL Outsider QQ 群 (480455628)](https://jq.qq.com/?_wv=1027&k=U1ZY0qbg) 寻求帮助。
+:::
 
 <span id="download"></span>
 
@@ -42,15 +48,11 @@
 
 ![设置游戏档案](https://raw-baka.lihaoyu.cn/images/maindocs/1.gif)
 
-## 安装后事项
+## 安装后 - BakaXL 预览体验计划
 
-我们推荐您安装 BakaXL 之后调整为「Parrot 鹦鹉通道」更新通道，您可以在此通道内体验最新版本的 BakaXL ，包括很多功能性更新，但可能会有未完成和未清理的功能。
-
-找到`本体设置` > `BakaXL 预览体验计划` >`切换为 Parrot 鹦鹉通道` >`点击变更`
+如果您碰到了一些奇怪的 Bug，或是想提前体验新功能，您可以前往 本体设置 - BakaXL 预览体验计划 尝试切换更新通道。Parrot 鹦鹉通道将会在代码有变动时第一时间推送，而 Pigeon 鸽子通道会在每周五固定更新一次。
 
 ![设置鹦鹉通道](https://raw-baka.lihaoyu.cn/images/maindocs/2.gif)
-
-这样您就可以随时更新到 BakaXL 的最新版本啦！
 
 如果因某些原因，BakaXL 无法自动更新或无限更新失败，您也可以随时在 [Jenkins](http://jk-insider.bakaxl.com:8888/job/BakaXL%20Insider%20Parrot/) 下载最后一次构建的结果。
 
@@ -104,11 +106,11 @@
 
 您可以从 BakaXL 内轻松地安装 Minecraft 核心。
 
-注意：您可能需要先确保下载源设置最优。前往 `本体设置` > `下载` > `中国大陆下载源加速` 设置为 `开`，而后镜像服务器选择 `MCBBS 源`  ，线程数请根据电脑配置酌情选择，一般默认的 128 个线程已可保证足够的下载速度。
+注意：您可能需要先确保下载源设置最优。前往 `本体设置` > `下载` > `中国大陆下载源加速` 设置为 `开`，线程数请根据电脑配置酌情选择，一般默认的 128 个线程已可保证足够的下载速度。
 
 ### 从 BakaXL 主界面安装
 
-单击主界面形似 「C+」 的按钮，选择游戏版本，添加 Mod 加载器 (可选) 、OptiFine (可选)，开始安装。
+单击主界面形似一个五边形的按钮，选择游戏版本，添加 Mod 加载器 (可选) 、OptiFine (可选)，开始安装。
 
 ![安装新 Minecraft 核心](https://raw-baka.lihaoyu.cn/images/maindocs/4.gif)
 
@@ -144,7 +146,7 @@ BakaXL 支持通过笨蛋广场来安装众多 Mod。
 
 ### 已拥有整合包文件
 
-BakaXL 支持安装 MCBBS / Modrinth / CurseForge / 格式的 Minecraft 整合包与大部分直接包含启动器的传统 Minecraft 整合包。
+BakaXL 支持安装 MCBBS / Modrinth / CurseForge 格式的 Minecraft 整合包与大部分直接包含启动器的传统 Minecraft 整合包。
 
 您可以向右拖拽 `启动游戏` 滑块 >`添加新的 Minecraft 核心 或 整合包` > `导入整合包` 来添加游戏核心
 
@@ -179,11 +181,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 前往`本体设置` > `账户与档案` > `登录至现有的 BakaXL 账户` 或 `注册一个新的账户`。
 
-注册新账户请前往 [BakaXL Account Register](https://account.baka.zone/register) 进行注册
-
-:::warning 提请注意
-目前 bbs.bakaxl.com 已关停, 正在开发新账户系统，因此无法更改用户名、用户ID、用户头像以及包括好友头像在内等资源暂无法访问，但 BakaXL Network 系统目前仍可用
-:::
+注册新账户请前往 [BakaXL Account Register](https://account.baka.zone/register) 进行注册。在注册时需要您绑定至少一个第三方账号，并填写相关基础信息。
 
 若您在登录/注册账户时 **卡在了登录页面无法返回** 如下图 (返回按钮是灰色的点不了)
 
@@ -210,9 +208,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 ### 大厅 (多人联机)
 
 ::: tip 提示
-目前 BakaXL 联机功能已由 Octo 章鱼网络提供服务，详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
-
-目前 BakaXL 3.0 最新预览版正在测试 Octo 章鱼网络，可以在 `领域` > `大厅` 中体验
+目前 BakaXL 大厅已由 Octo 章鱼网络提供服务并可用，可以在 `领域` > `大厅` 中体验。详情请查阅 [BakaXL / PCL2 / HMCL 对联机功能下一步发展的联合公告](https://www.bilibili.com/read/cv19553724) 。
 :::
 
 选择 `大厅` 菜单栏，您可以 创建 / 加入一个大厅。
@@ -226,7 +222,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 4. 点击 `创建大厅` ，然后将大厅 ID 通过通讯软件发送给其它玩家；
 5. 其他玩家使用大厅的 8 位数字 ID 加入。
 
-加入方和创建方请务必打开`在无法直接连接时使用中继连接` 选项以确保能够正常联机游玩，关于使用 BakaXL Relay 的隐私协议您可以参考：
+加入方和创建方请务必打开 `在无法直接连接时使用中继连接` 选项以确保能够正常联机游玩，关于使用 BakaXL Network Relay 的隐私协议您可以参考：
 
 [>>> BakaXL 隐私政策](https://www.bakaxl.com/Privacy/Policy/)
 
@@ -250,7 +246,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 加入方无需通过 BakaXL 启动 Minecraft 也可以加入游戏，但是我们依旧希望您使用 BakaXL 启动 / 管理您的游戏核心。
 :::
 
-#### 通过 BakaXL 对服务端组建虚拟局域网
+#### 通过 BakaXL 创建一个服务端大厅
 
 1. 启动服务器；
 2. 打开 BakaXL 大厅，在实例中选择您的服务器实例；
@@ -258,7 +254,7 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 4. 您的好友加入大厅后即可在他运行的游戏中看到您的大厅，双击加入即可。
 
 ::: warning 注意
-如果服务器使用了验证手段，如正版验证，那么作为加入者也需要使用相应验证服务器的 Minecraft 用户档案。服务器启动了正版验证那么加入的玩家也应当启用正版验证，否则会导致连接超时。
+如果服务器使用了验证服务器，如正版验证，那么作为加入者也需要使用相应验证服务器的 Minecraft 用户档案。服务器启动了正版验证那么加入的玩家也应当启用正版验证，否则会导致连接超时。
 :::
 
 ### 皮肤妙享（离线皮肤共享）
@@ -273,4 +269,4 @@ BakaXL 内置有 BakaXL Network 功能，该功能能够可以实现一些社交
 
 之后前往`「领域/联机大厅」`-`「用户设置」`，确保`「BakaXL Network SkinShare 皮肤妙享」`为开启状态
 
-> 如果您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在 [BakaXL Outsider QQ 群480455628](https://jq.qq.com/?_wv=1027&k=U1ZY0qbg)来寻求帮助。
+> 如果您阅读了此使用手册和[帮助文档](./maindocs.md)后仍未解决您的问题，可以在 [BakaXL Outsider QQ 群 (480455628)](https://jq.qq.com/?_wv=1027&k=U1ZY0qbg) 来寻求帮助。
