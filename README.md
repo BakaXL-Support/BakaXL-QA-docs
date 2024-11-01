@@ -8,7 +8,7 @@
 
 当然，如果您迷路了也可以通过这里的以下索引到达我们不同的位面
 
-> [>>前往帮助文档](https://bakaxl.ml) 		 [>>前往提议寻求协助](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues) 		[>>前往讨论区](https://github.com/BakaXL-Support/BakaXL-QA-docs/discussions)
+> [>>前往帮助文档](https://Help.BakaXL.com) 		 [>>前往提议寻求协助](https://github.com/BakaXL-Support/BakaXL-QA-docs/issues) 		[>>前往讨论区](https://github.com/BakaXL-Support/BakaXL-QA-docs/discussions)
 
 您可以在以上位面寻求帮助，当然，在用户交流群中询问也可以，但是我们依旧建议在以上地方(提议与讨论区)发起提问，因为 `QA(你问我答)` 机制在这里发挥的作用非常大，我们可以实时追踪您的状态与回复，而不会被即时通讯中的信息流淹没而难以找到您提供的有效信息以及我们给您的回答
 
@@ -43,7 +43,7 @@
 
 您也可以参考我们的编写规范进行修改
 
-[>> BakaXL 帮助文档写作规范](https://bakaxl.ml/maindocs/BakaXL_HelpDocs_WriteRules.html)
+[>> BakaXL 帮助文档写作规范](https://help.bakaxl.com/v3/write-rule.html)
 
 [>> 点击这里立刻 fork 我们的仓库](https://github.com/BakaXL-Support/BakaXL-QA-docs/fork)
 
